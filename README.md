@@ -46,6 +46,7 @@
     Validated promotion year values
 
 📈 **Key Insights**
+    
     Research & Development department has the highest salary distribution.
     Managers and Research Directors earn the highest average salaries.
     Some employees have worked 5+ years without promotion, indicating promotion gaps.
@@ -53,5 +54,6 @@
     High performing employees earning below average salary may have salary growth potential.
 
 📌 **Conclusion**
+    
     This project demonstrates how SQL can be used for HR analytics, including salary analysis, promotion tracking, and employee performance evaluation.
     These insights help organizations improve promotion strategies, salary fairness, and workforce planning.
