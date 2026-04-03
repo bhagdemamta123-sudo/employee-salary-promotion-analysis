@@ -1,0 +1,1471 @@
+﻿EmployeeNumber,Age,Department,Education,EducationField,Gender,JobRole,JobSatisfaction,MonthlyIncome,PerformanceRating,TotalWorkingYears,YearsAtCompany,YearsSinceLastPromotion
+1,41,Sales,2,Life Sciences,Female,Sales Executive,4,5993,3,8,6,0
+2,49,Research & Development,1,Life Sciences,Male,Research Scientist,2,5130,4,10,10,1
+4,37,Research & Development,2,Other,Male,Laboratory Technician,3,2090,3,7,0,0
+5,33,Research & Development,4,Life Sciences,Female,Research Scientist,3,2909,3,8,8,3
+7,27,Research & Development,1,Medical,Male,Laboratory Technician,2,3468,3,6,2,2
+8,32,Research & Development,2,Life Sciences,Male,Laboratory Technician,4,3068,3,8,7,3
+10,59,Research & Development,3,Medical,Female,Laboratory Technician,1,2670,4,12,1,0
+11,30,Research & Development,1,Life Sciences,Male,Laboratory Technician,3,2693,4,1,1,0
+12,38,Research & Development,3,Life Sciences,Male,Manufacturing Director,3,9526,4,10,9,1
+13,36,Research & Development,3,Medical,Male,Healthcare Representative,3,5237,3,17,7,7
+14,35,Research & Development,3,Medical,Male,Laboratory Technician,2,2426,3,6,5,0
+15,29,Research & Development,2,Life Sciences,Female,Laboratory Technician,3,4193,3,10,9,0
+16,31,Research & Development,1,Life Sciences,Male,Research Scientist,3,2911,3,5,5,4
+18,34,Research & Development,2,Medical,Male,Laboratory Technician,4,2661,3,3,2,1
+19,28,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,2028,3,6,4,0
+20,29,Research & Development,4,Life Sciences,Female,Manufacturing Director,1,9980,3,10,10,8
+21,32,Research & Development,2,Life Sciences,Male,Research Scientist,2,3298,3,7,6,0
+22,22,Research & Development,2,Medical,Male,Laboratory Technician,4,2935,3,1,1,0
+23,53,Sales,4,Life Sciences,Female,Manager,4,15427,3,31,25,3
+24,38,Research & Development,3,Life Sciences,Male,Research Scientist,4,3944,3,6,3,1
+26,24,Research & Development,2,Other,Female,Manufacturing Director,3,4011,3,5,4,1
+27,36,Sales,4,Life Sciences,Male,Sales Representative,1,3407,4,10,5,0
+28,34,Research & Development,4,Life Sciences,Female,Research Director,2,11994,3,13,12,2
+30,21,Research & Development,2,Life Sciences,Male,Research Scientist,4,1232,3,0,0,0
+31,34,Research & Development,1,Medical,Male,Research Scientist,1,2960,3,8,4,1
+32,53,Research & Development,3,Other,Female,Manager,3,19094,3,26,14,4
+33,32,Research & Development,1,Life Sciences,Female,Research Scientist,1,3919,4,10,10,6
+35,42,Sales,4,Marketing,Male,Sales Executive,2,6825,3,10,9,4
+36,44,Research & Development,4,Medical,Female,Healthcare Representative,4,10248,3,24,22,5
+38,46,Sales,4,Marketing,Female,Manager,1,18947,3,22,2,2
+39,33,Research & Development,3,Medical,Male,Laboratory Technician,4,2496,3,7,1,0
+40,44,Research & Development,4,Other,Male,Healthcare Representative,4,6465,3,9,4,1
+41,30,Research & Development,2,Medical,Male,Laboratory Technician,3,2206,3,10,10,1
+42,39,Sales,3,Technical Degree,Male,Sales Representative,4,2086,3,19,1,0
+45,24,Research & Development,3,Medical,Male,Research Scientist,4,2293,3,6,2,2
+46,43,Research & Development,2,Medical,Female,Research Scientist,3,2645,3,6,5,1
+47,50,Sales,2,Marketing,Male,Sales Representative,3,2683,3,3,3,0
+49,35,Sales,3,Marketing,Female,Sales Representative,4,2014,3,2,2,2
+51,36,Research & Development,4,Life Sciences,Female,Research Scientist,1,3419,3,6,1,0
+52,33,Sales,3,Life Sciences,Female,Sales Executive,1,5376,3,10,5,1
+53,35,Research & Development,2,Other,Male,Laboratory Technician,4,1951,3,1,1,0
+54,27,Research & Development,4,Life Sciences,Female,Laboratory Technician,1,2341,3,1,1,0
+55,26,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,2293,3,1,1,0
+56,27,Sales,3,Life Sciences,Male,Sales Executive,3,8726,3,9,9,1
+57,30,Research & Development,2,Medical,Female,Laboratory Technician,4,4011,4,12,12,3
+58,41,Research & Development,3,Technical Degree,Female,Research Director,3,19545,3,23,22,15
+60,34,Sales,4,Marketing,Male,Sales Executive,3,4568,4,10,9,8
+61,37,Research & Development,2,Life Sciences,Male,Research Scientist,2,3022,4,8,1,0
+62,46,Sales,4,Marketing,Male,Sales Executive,4,5772,4,14,9,0
+63,35,Research & Development,1,Life Sciences,Male,Laboratory Technician,4,2269,3,1,1,0
+64,48,Research & Development,2,Life Sciences,Male,Laboratory Technician,3,5381,3,23,1,0
+65,28,Research & Development,4,Technical Degree,Male,Laboratory Technician,3,3441,3,2,2,2
+68,44,Sales,5,Marketing,Female,Sales Executive,1,5454,4,9,4,1
+70,35,Research & Development,2,Medical,Male,Healthcare Representative,1,9884,3,10,4,2
+72,26,Sales,3,Marketing,Female,Sales Executive,4,4157,3,5,2,0
+73,33,Research & Development,2,Life Sciences,Female,Research Director,4,13458,3,15,15,8
+74,35,Sales,5,Life Sciences,Male,Sales Executive,1,9069,4,9,9,1
+75,35,Research & Development,4,Medical,Female,Laboratory Technician,1,4014,3,4,2,2
+76,31,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,5915,4,10,7,1
+77,37,Research & Development,4,Life Sciences,Male,Manufacturing Director,3,5993,3,7,7,0
+78,32,Research & Development,3,Medical,Male,Manufacturing Director,4,6162,4,9,9,7
+79,38,Research & Development,5,Life Sciences,Female,Laboratory Technician,4,2406,3,10,10,9
+80,50,Research & Development,2,Medical,Female,Research Director,3,18740,3,29,27,13
+81,59,Sales,3,Life Sciences,Female,Sales Executive,1,7637,3,28,21,7
+83,36,Research & Development,3,Technical Degree,Female,Healthcare Representative,3,10096,3,17,17,12
+84,55,Research & Development,3,Medical,Female,Manager,3,14756,3,21,5,0
+85,36,Research & Development,3,Life Sciences,Male,Manufacturing Director,2,6499,3,6,6,0
+86,45,Research & Development,3,Life Sciences,Male,Research Scientist,1,9724,3,25,1,0
+88,35,Research & Development,3,Medical,Male,Research Scientist,1,2194,3,5,3,1
+90,36,Research & Development,3,Medical,Male,Research Scientist,3,3388,3,2,1,0
+91,59,Sales,1,Life Sciences,Female,Sales Executive,3,5473,3,20,4,1
+94,29,Research & Development,3,Life Sciences,Male,Research Scientist,2,2703,4,6,5,0
+95,31,Research & Development,4,Medical,Male,Research Scientist,2,2501,3,1,1,1
+96,32,Research & Development,3,Life Sciences,Male,Research Scientist,2,6220,3,10,10,0
+97,36,Research & Development,3,Life Sciences,Female,Laboratory Technician,4,3038,3,5,1,0
+98,31,Research & Development,4,Life Sciences,Female,Manufacturing Director,4,4424,4,11,11,1
+100,35,Sales,4,Marketing,Male,Sales Executive,1,4312,3,16,15,2
+101,45,Research & Development,4,Other,Male,Research Director,1,13245,3,17,0,0
+102,37,Research & Development,4,Medical,Male,Research Director,3,13664,3,16,5,0
+103,46,Human Resources,2,Medical,Male,Human Resources,2,5021,4,16,4,0
+104,30,Research & Development,1,Life Sciences,Male,Laboratory Technician,4,5126,3,10,10,3
+105,35,Research & Development,3,Medical,Male,Research Scientist,3,2859,3,6,6,0
+106,55,Sales,2,Life Sciences,Male,Sales Executive,4,10239,3,24,1,1
+107,38,Research & Development,3,Medical,Female,Research Scientist,4,5329,3,17,13,1
+110,34,Research & Development,2,Medical,Male,Manufacturing Director,2,4325,3,5,5,1
+112,56,Research & Development,3,Life Sciences,Male,Manufacturing Director,4,7260,3,37,6,0
+113,23,Sales,1,Technical Degree,Male,Sales Representative,1,2322,3,3,0,0
+116,51,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,2075,4,10,4,0
+117,30,Research & Development,3,Life Sciences,Male,Healthcare Representative,4,4152,3,11,11,10
+118,46,Sales,2,Medical,Male,Sales Executive,4,9619,3,9,9,4
+119,40,Research & Development,4,Life Sciences,Male,Healthcare Representative,2,13503,4,22,22,11
+120,51,Sales,4,Marketing,Male,Sales Executive,4,5441,4,11,10,1
+121,30,Sales,2,Medical,Female,Sales Executive,2,5209,3,11,11,2
+124,46,Research & Development,3,Medical,Male,Healthcare Representative,1,10673,3,21,10,9
+125,32,Sales,4,Medical,Male,Sales Executive,3,5010,3,12,11,5
+126,54,Research & Development,4,Technical Degree,Female,Research Director,3,13549,3,16,4,0
+128,24,Sales,2,Other,Female,Sales Executive,3,4999,4,4,3,0
+129,28,Sales,3,Medical,Male,Sales Executive,3,4221,3,5,5,0
+131,58,Sales,4,Medical,Male,Sales Executive,3,13872,3,38,37,1
+132,44,Research & Development,3,Medical,Male,Laboratory Technician,2,2042,3,17,3,1
+133,37,Human Resources,4,Human Resources,Male,Human Resources,1,2073,4,7,3,0
+134,32,Research & Development,1,Life Sciences,Male,Research Scientist,1,2956,3,1,1,0
+137,20,Research & Development,3,Life Sciences,Female,Laboratory Technician,4,2926,3,1,1,1
+138,34,Research & Development,4,Other,Female,Research Scientist,3,4809,3,16,16,2
+139,37,Research & Development,2,Life Sciences,Male,Healthcare Representative,4,5163,3,17,1,0
+140,59,Human Resources,4,Human Resources,Female,Manager,4,18844,4,30,3,2
+141,50,Research & Development,3,Life Sciences,Female,Research Director,2,18172,3,28,8,0
+142,25,Sales,3,Marketing,Male,Sales Executive,3,5744,3,6,6,0
+143,25,Research & Development,1,Medical,Male,Research Scientist,4,2889,3,2,2,2
+144,22,Research & Development,3,Medical,Female,Laboratory Technician,4,2871,3,1,0,0
+145,51,Research & Development,4,Medical,Female,Healthcare Representative,1,7484,4,23,13,12
+147,34,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,6074,4,9,9,0
+148,54,Human Resources,3,Human Resources,Female,Manager,4,17328,3,23,5,4
+150,24,Research & Development,1,Life Sciences,Male,Laboratory Technician,3,2774,3,6,5,1
+151,34,Research & Development,4,Life Sciences,Female,Research Scientist,2,4505,3,12,1,0
+152,37,Sales,3,Life Sciences,Male,Sales Executive,4,7428,3,12,5,1
+153,34,Research & Development,3,Medical,Female,Manager,1,11631,3,14,11,5
+154,36,Sales,2,Technical Degree,Female,Sales Executive,4,9738,3,10,9,2
+155,36,Research & Development,2,Life Sciences,Female,Laboratory Technician,4,2835,4,7,1,0
+158,43,Sales,2,Life Sciences,Male,Manager,4,16959,3,25,25,4
+159,30,Research & Development,3,Life Sciences,Male,Research Scientist,3,2613,4,10,10,0
+160,33,Sales,2,Marketing,Male,Sales Executive,2,6146,3,8,7,0
+161,56,Research & Development,4,Life Sciences,Female,Research Scientist,2,4963,3,7,5,4
+162,51,Research & Development,3,Life Sciences,Male,Research Director,3,19537,3,23,20,15
+163,31,Sales,4,Life Sciences,Male,Sales Executive,3,6172,3,12,7,7
+164,26,Research & Development,3,Other,Female,Research Scientist,2,2368,3,5,5,4
+165,58,Research & Development,4,Medical,Female,Healthcare Representative,4,10312,3,40,40,15
+167,19,Sales,1,Marketing,Male,Sales Representative,3,1675,3,0,0,0
+169,22,Research & Development,1,Technical Degree,Male,Laboratory Technician,4,2523,3,3,2,2
+170,49,Research & Development,4,Medical,Female,Manufacturing Director,1,6567,3,16,15,5
+171,43,Research & Development,3,Medical,Female,Research Scientist,3,4739,3,18,3,1
+174,50,Sales,3,Marketing,Female,Sales Executive,4,9208,3,16,2,2
+175,31,Sales,3,Life Sciences,Female,Sales Executive,3,4559,3,4,2,2
+176,41,Sales,1,Life Sciences,Male,Sales Executive,3,8189,3,12,9,0
+177,26,Human Resources,1,Life Sciences,Female,Human Resources,3,2942,4,8,8,5
+178,36,Research & Development,2,Medical,Male,Manufacturing Director,2,4941,4,7,3,0
+179,51,Research & Development,4,Life Sciences,Male,Manufacturing Director,4,10650,3,18,4,0
+182,39,Sales,4,Life Sciences,Female,Sales Executive,3,5902,3,17,15,5
+183,25,Sales,3,Life Sciences,Male,Sales Executive,3,8639,3,6,2,2
+184,30,Human Resources,3,Human Resources,Male,Human Resources,4,6347,3,12,11,4
+190,32,Research & Development,3,Medical,Female,Laboratory Technician,1,4200,4,10,5,0
+192,45,Research & Development,3,Medical,Male,Research Scientist,4,3452,3,9,6,0
+193,38,Research & Development,5,Technical Degree,Female,Research Scientist,3,4317,4,19,3,2
+194,30,Research & Development,3,Life Sciences,Female,Research Scientist,3,2632,3,5,5,0
+195,32,Sales,2,Medical,Male,Sales Executive,4,4668,3,9,8,0
+197,30,Research & Development,3,Technical Degree,Female,Research Scientist,1,3204,3,8,3,2
+198,30,Research & Development,1,Medical,Male,Laboratory Technician,4,2720,3,6,5,1
+199,41,Research & Development,3,Life Sciences,Male,Manager,1,17181,3,21,7,7
+200,41,Research & Development,4,Life Sciences,Male,Laboratory Technician,1,2238,4,7,5,1
+201,19,Research & Development,1,Medical,Female,Laboratory Technician,2,1483,3,1,1,0
+202,40,Research & Development,3,Medical,Female,Research Scientist,2,5605,3,20,20,2
+204,35,Sales,5,Marketing,Male,Sales Executive,2,7295,3,10,10,0
+205,53,Sales,2,Marketing,Male,Sales Representative,3,2306,4,13,7,4
+206,45,Research & Development,3,Life Sciences,Male,Laboratory Technician,2,2348,3,20,17,0
+207,32,Sales,3,Marketing,Female,Sales Executive,4,8998,3,9,9,3
+208,29,Research & Development,1,Technical Degree,Male,Manufacturing Director,3,4319,3,10,10,0
+211,51,Research & Development,4,Medical,Male,Manufacturing Director,3,6132,3,10,1,0
+214,58,Research & Development,3,Medical,Female,Research Scientist,2,3346,4,9,1,0
+215,40,Sales,4,Marketing,Male,Sales Executive,4,10855,3,15,12,2
+216,34,Sales,4,Marketing,Female,Sales Representative,3,2231,3,6,4,1
+217,22,Research & Development,1,Medical,Male,Research Scientist,4,2323,4,2,2,2
+218,27,Research & Development,3,Medical,Male,Research Scientist,2,2024,3,6,2,2
+221,28,Research & Development,3,Medical,Male,Research Scientist,4,2713,3,5,5,0
+223,57,Research & Development,2,Life Sciences,Male,Healthcare Representative,4,9439,3,12,5,1
+224,27,Research & Development,3,Medical,Male,Research Scientist,3,2566,3,1,1,0
+226,50,Research & Development,3,Life Sciences,Female,Manager,2,19926,3,21,5,4
+227,41,Research & Development,3,Life Sciences,Male,Research Scientist,3,2451,3,13,9,1
+228,30,Sales,3,Life Sciences,Female,Sales Executive,4,9419,3,12,10,7
+230,38,Sales,4,Life Sciences,Female,Sales Executive,4,8686,4,12,8,0
+231,32,Research & Development,5,Life Sciences,Male,Research Scientist,3,3038,4,8,5,1
+233,27,Research & Development,3,Technical Degree,Male,Research Scientist,2,3058,3,6,5,1
+235,19,Sales,1,Technical Degree,Female,Sales Representative,1,2325,4,1,0,0
+238,36,Research & Development,2,Medical,Male,Laboratory Technician,2,2088,3,13,8,7
+239,30,Research & Development,3,Medical,Male,Laboratory Technician,1,3072,3,12,12,6
+240,45,Sales,2,Life Sciences,Female,Sales Executive,1,5006,3,9,5,0
+241,56,Research & Development,3,Life Sciences,Female,Research Scientist,1,4257,3,19,2,2
+242,33,Research & Development,3,Life Sciences,Male,Research Scientist,4,2500,3,4,3,0
+243,19,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,1102,4,1,1,1
+244,46,Sales,2,Marketing,Female,Sales Executive,1,10453,4,24,24,15
+245,38,Research & Development,2,Life Sciences,Female,Laboratory Technician,4,2288,3,2,2,2
+246,31,Research & Development,1,Medical,Female,Research Scientist,4,3929,4,7,4,0
+247,34,Research & Development,2,Medical,Female,Research Scientist,2,2311,3,9,3,1
+248,41,Sales,2,Marketing,Female,Sales Representative,2,3140,4,4,4,0
+249,50,Research & Development,3,Medical,Male,Laboratory Technician,3,3690,3,5,3,0
+250,53,Research & Development,2,Medical,Female,Manufacturing Director,1,4450,3,5,4,1
+252,33,Research & Development,3,Medical,Female,Research Scientist,2,2756,3,8,8,1
+253,40,Research & Development,1,Medical,Female,Manager,3,19033,3,21,20,9
+254,55,Research & Development,4,Medical,Male,Research Director,2,18722,3,36,24,2
+256,34,Research & Development,1,Life Sciences,Male,Manufacturing Director,3,9547,3,10,10,1
+258,51,Research & Development,3,Medical,Female,Healthcare Representative,2,13734,3,21,7,1
+259,52,Research & Development,4,Life Sciences,Male,Manager,3,19999,3,34,33,11
+260,27,Research & Development,3,Medical,Female,Research Scientist,2,2279,3,7,7,0
+261,35,Research & Development,2,Life Sciences,Male,Manufacturing Director,3,5916,3,8,1,0
+262,43,Research & Development,3,Medical,Male,Research Scientist,4,2089,3,7,5,2
+264,45,Research & Development,2,Medical,Male,Manager,4,16792,4,22,20,11
+267,37,Research & Development,3,Life Sciences,Male,Research Scientist,1,3564,3,8,8,1
+269,35,Research & Development,3,Medical,Female,Laboratory Technician,2,4425,3,10,6,1
+270,42,Research & Development,2,Medical,Female,Manufacturing Director,3,5265,3,11,5,0
+271,38,Research & Development,4,Life Sciences,Male,Manufacturing Director,3,6553,3,14,1,0
+273,38,Research & Development,3,Technical Degree,Male,Manufacturing Director,4,6261,3,9,7,1
+274,27,Research & Development,1,Technical Degree,Male,Manufacturing Director,1,4298,3,6,2,2
+275,49,Research & Development,4,Life Sciences,Male,Manufacturing Director,4,6804,3,7,7,1
+277,34,Research & Development,4,Medical,Male,Research Scientist,3,3815,3,5,5,2
+281,40,Research & Development,2,Medical,Male,Laboratory Technician,4,2741,3,15,7,3
+282,38,Research & Development,1,Medical,Male,Healthcare Representative,1,6673,3,17,1,0
+283,29,Sales,3,Marketing,Female,Sales Executive,4,7639,4,10,10,1
+284,22,Research & Development,3,Life Sciences,Male,Research Scientist,2,2328,3,4,4,2
+286,36,Research & Development,1,Medical,Female,Laboratory Technician,4,2153,3,8,8,1
+287,40,Research & Development,5,Life Sciences,Male,Healthcare Representative,4,4876,3,5,3,0
+288,46,Research & Development,4,Medical,Male,Healthcare Representative,1,9396,3,17,4,0
+291,32,Sales,4,Medical,Male,Sales Executive,4,10400,3,14,14,9
+292,30,Research & Development,1,Life Sciences,Male,Manufacturing Director,3,8474,4,12,11,5
+293,27,Sales,3,Life Sciences,Female,Sales Executive,3,9981,3,7,7,0
+296,51,Research & Development,4,Life Sciences,Male,Research Director,2,12490,3,16,10,4
+297,30,Research & Development,3,Technical Degree,Female,Research Scientist,1,2657,3,8,5,0
+298,41,Sales,3,Life Sciences,Female,Manager,4,13591,3,16,1,0
+299,30,Sales,4,Marketing,Female,Sales Executive,1,6696,3,9,6,0
+300,29,Research & Development,3,Technical Degree,Male,Research Scientist,3,2058,3,7,6,1
+302,45,Sales,3,Medical,Female,Sales Executive,4,8865,3,23,19,12
+303,54,Sales,3,Marketing,Female,Sales Executive,1,5940,3,16,6,0
+304,36,Research & Development,2,Life Sciences,Male,Laboratory Technician,2,5914,3,16,13,3
+305,33,Research & Development,4,Medical,Female,Research Scientist,2,2622,4,7,3,1
+306,37,Research & Development,3,Other,Male,Research Director,4,12185,3,10,10,0
+307,38,Sales,3,Life Sciences,Male,Sales Executive,3,10609,3,17,16,5
+308,31,Research & Development,4,Medical,Male,Manufacturing Director,3,4345,3,6,5,1
+309,59,Research & Development,3,Life Sciences,Male,Research Scientist,4,2177,3,7,1,0
+311,37,Sales,4,Marketing,Male,Sales Representative,4,2793,3,13,9,5
+312,29,Sales,1,Medical,Female,Sales Executive,4,7918,3,11,11,4
+314,35,Sales,3,Marketing,Female,Sales Executive,3,8789,3,10,10,0
+315,29,Research & Development,1,Medical,Male,Research Scientist,4,2389,3,4,4,0
+316,52,Research & Development,3,Life Sciences,Female,Laboratory Technician,4,3212,3,6,2,2
+319,42,Research & Development,2,Technical Degree,Male,Manager,4,19232,3,22,22,11
+321,59,Human Resources,2,Medical,Male,Human Resources,3,2267,3,7,2,2
+323,50,Sales,4,Medical,Female,Manager,4,19517,3,32,7,0
+325,33,Research & Development,3,Medical,Male,Laboratory Technician,4,2436,3,8,5,0
+327,43,Sales,3,Marketing,Female,Manager,4,16064,4,22,17,1
+328,33,Research & Development,2,Life Sciences,Female,Laboratory Technician,1,2707,4,13,9,1
+329,52,Sales,4,Life Sciences,Male,Manager,3,19068,3,33,33,15
+330,32,Sales,2,Life Sciences,Female,Sales Representative,2,3931,3,6,4,1
+331,32,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,3730,3,4,3,1
+332,39,Research & Development,4,Medical,Female,Laboratory Technician,3,2232,3,7,3,1
+333,32,Sales,4,Marketing,Male,Sales Executive,4,4465,3,4,3,2
+334,41,Research & Development,2,Life Sciences,Male,Research Scientist,1,3072,3,17,1,0
+335,40,Research & Development,2,Technical Degree,Male,Research Scientist,4,3319,3,9,9,4
+336,45,Research & Development,3,Other,Male,Manager,4,19202,3,25,24,1
+337,31,Research & Development,4,Medical,Male,Research Director,3,13675,3,9,2,2
+338,33,Research & Development,4,Life Sciences,Female,Research Scientist,4,2911,3,2,2,0
+339,34,Research & Development,4,Life Sciences,Male,Manufacturing Director,1,5957,3,13,11,5
+340,37,Research & Development,2,Medical,Female,Research Scientist,1,3920,3,17,3,0
+341,45,Research & Development,4,Life Sciences,Male,Manufacturing Director,3,6434,3,9,3,0
+342,37,Research & Development,3,Medical,Male,Manufacturing Director,3,10048,3,17,1,0
+343,39,Research & Development,4,Technical Degree,Female,Healthcare Representative,3,10938,4,20,19,11
+346,29,Research & Development,3,Life Sciences,Male,Research Scientist,4,2340,3,6,6,1
+347,42,Research & Development,2,Life Sciences,Female,Research Scientist,1,6545,3,10,3,0
+349,29,Sales,2,Marketing,Male,Sales Executive,4,6931,3,10,3,0
+350,25,Research & Development,3,Life Sciences,Female,Manufacturing Director,3,4898,3,5,4,1
+351,42,Research & Development,3,Medical,Female,Laboratory Technician,1,2593,3,10,9,7
+352,40,Research & Development,2,Medical,Male,Research Director,3,19436,3,22,21,3
+353,51,Research & Development,3,Life Sciences,Male,Research Scientist,4,2723,3,1,1,0
+355,31,Research & Development,2,Medical,Male,Laboratory Technician,2,3479,3,6,5,1
+359,32,Research & Development,3,Life Sciences,Male,Laboratory Technician,2,2794,4,5,5,0
+361,38,Sales,2,Life Sciences,Male,Sales Executive,4,5249,3,13,8,7
+362,32,Research & Development,1,Technical Degree,Male,Laboratory Technician,1,2176,3,9,6,0
+363,46,Sales,3,Technical Degree,Female,Manager,2,16872,3,28,7,7
+364,28,Research & Development,4,Life Sciences,Male,Laboratory Technician,3,3485,3,5,0,0
+366,29,Sales,3,Medical,Male,Sales Executive,2,6644,3,10,0,0
+367,31,Research & Development,3,Medical,Male,Healthcare Representative,4,5582,4,10,9,7
+369,25,Research & Development,2,Life Sciences,Male,Healthcare Representative,1,4000,3,6,6,1
+372,45,Research & Development,2,Medical,Male,Healthcare Representative,4,13496,3,21,20,4
+373,36,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,3210,3,16,15,10
+374,55,Research & Development,3,Medical,Male,Manager,1,19045,3,37,36,4
+376,47,Research & Development,4,Life Sciences,Male,Manager,2,11849,3,10,10,9
+377,28,Research & Development,3,Medical,Male,Research Scientist,4,2070,4,5,5,0
+378,37,Sales,4,Medical,Male,Sales Executive,4,6502,3,7,5,0
+379,21,Research & Development,2,Medical,Male,Research Scientist,3,3230,3,3,3,1
+380,37,Research & Development,4,Medical,Female,Research Director,4,13603,3,15,5,0
+381,35,Research & Development,3,Life Sciences,Female,Manager,2,11996,3,10,7,6
+382,38,Sales,2,Medical,Female,Sales Executive,1,5605,4,8,8,7
+384,26,Research & Development,3,Life Sciences,Female,Manufacturing Director,2,6397,4,6,6,1
+385,50,Research & Development,1,Life Sciences,Male,Research Director,2,19144,3,28,10,1
+386,53,Research & Development,4,Medical,Male,Research Director,3,17584,3,21,5,1
+387,42,Sales,1,Life Sciences,Male,Sales Executive,3,4907,4,20,20,11
+388,29,Sales,2,Life Sciences,Male,Sales Executive,4,4554,3,10,10,0
+389,55,Research & Development,2,Technical Degree,Male,Laboratory Technician,4,5415,3,12,10,0
+390,26,Research & Development,2,Medical,Male,Healthcare Representative,1,4741,3,5,5,3
+391,37,Research & Development,3,Life Sciences,Female,Research Scientist,4,2115,3,17,17,5
+392,44,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,3161,4,19,1,0
+393,38,Research & Development,4,Life Sciences,Male,Healthcare Representative,4,5745,3,10,2,1
+394,26,Research & Development,4,Medical,Male,Laboratory Technician,2,2373,3,5,3,0
+395,28,Research & Development,2,Life Sciences,Female,Research Scientist,4,3310,4,5,5,0
+396,49,Research & Development,4,Life Sciences,Female,Research Director,1,18665,3,22,3,1
+397,36,Research & Development,3,Technical Degree,Male,Research Scientist,2,4485,3,10,8,7
+399,31,Sales,3,Marketing,Female,Sales Representative,2,2789,3,2,2,2
+401,26,Sales,4,Marketing,Male,Sales Executive,4,5828,3,8,8,7
+403,37,Research & Development,3,Medical,Male,Research Scientist,4,2326,3,4,4,1
+404,42,Sales,3,Marketing,Female,Sales Executive,2,13525,3,23,20,4
+405,18,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,1420,3,0,0,0
+406,35,Sales,3,Marketing,Male,Sales Executive,2,8020,3,12,11,6
+407,36,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,3688,3,4,1,0
+408,51,Research & Development,3,Medical,Male,Manufacturing Director,2,5482,3,13,4,1
+410,41,Sales,4,Life Sciences,Male,Manager,2,16015,3,22,22,0
+411,18,Sales,3,Medical,Female,Sales Representative,3,1200,3,0,0,0
+412,28,Research & Development,2,Medical,Male,Healthcare Representative,1,5661,3,9,8,0
+416,31,Sales,3,Technical Degree,Male,Sales Executive,4,6929,3,10,8,7
+417,39,Research & Development,3,Medical,Male,Healthcare Representative,4,9613,3,19,18,3
+419,36,Research & Development,4,Life Sciences,Female,Laboratory Technician,2,5674,3,11,9,0
+420,32,Sales,3,Life Sciences,Male,Sales Executive,3,5484,3,13,13,4
+421,38,Research & Development,2,Life Sciences,Female,Research Director,2,12061,3,19,10,0
+422,58,Research & Development,4,Life Sciences,Male,Healthcare Representative,3,5660,3,12,5,1
+423,31,Research & Development,4,Technical Degree,Male,Research Scientist,4,4821,3,6,5,0
+424,31,Human Resources,3,Human Resources,Male,Human Resources,1,6410,3,9,2,1
+425,45,Research & Development,3,Life Sciences,Male,Laboratory Technician,1,5210,3,24,24,9
+426,31,Research & Development,4,Life Sciences,Male,Research Scientist,4,2695,3,3,2,2
+428,33,Research & Development,4,Life Sciences,Female,Manager,2,11878,3,12,10,8
+429,39,Research & Development,1,Medical,Male,Manager,1,17068,3,21,21,11
+430,43,Research & Development,4,Life Sciences,Female,Laboratory Technician,4,2455,3,9,8,1
+431,49,Research & Development,2,Technical Degree,Female,Healthcare Representative,3,13964,3,25,7,0
+433,52,Research & Development,4,Medical,Male,Research Scientist,2,4941,3,11,8,7
+434,27,Research & Development,3,Life Sciences,Female,Research Scientist,2,2478,3,4,4,1
+436,32,Sales,2,Technical Degree,Female,Sales Executive,2,5228,3,13,13,11
+437,27,Sales,3,Life Sciences,Male,Sales Executive,3,4478,3,5,5,0
+438,31,Sales,3,Marketing,Male,Sales Executive,4,7547,3,13,7,1
+439,32,Research & Development,4,Medical,Female,Research Scientist,4,5055,3,10,7,0
+440,28,Research & Development,4,Medical,Male,Research Scientist,4,3464,3,5,3,2
+441,30,Research & Development,2,Medical,Female,Research Scientist,4,5775,3,11,10,1
+442,31,Research & Development,2,Life Sciences,Female,Manufacturing Director,3,8943,4,10,10,8
+444,39,Research & Development,2,Medical,Male,Manager,4,19272,3,21,21,13
+445,39,Sales,2,Medical,Female,Sales Executive,3,5238,3,12,1,0
+446,33,Sales,3,Marketing,Male,Sales Executive,4,4682,3,9,7,0
+447,47,Research & Development,5,Life Sciences,Male,Research Director,3,18300,3,21,3,1
+448,43,Research & Development,4,Life Sciences,Female,Laboratory Technician,3,5257,3,9,9,0
+449,27,Sales,1,Marketing,Male,Sales Executive,2,6349,3,6,5,1
+450,54,Research & Development,4,Life Sciences,Female,Research Scientist,3,4869,3,20,4,0
+451,43,Research & Development,3,Life Sciences,Female,Healthcare Representative,1,9985,3,10,1,0
+452,45,Research & Development,4,Other,Male,Research Scientist,4,3697,3,12,10,9
+453,40,Sales,2,Medical,Male,Sales Executive,4,7457,4,6,4,0
+454,29,Research & Development,4,Other,Male,Laboratory Technician,1,2119,3,7,7,0
+455,29,Research & Development,5,Other,Male,Laboratory Technician,4,3983,3,4,3,2
+456,30,Sales,3,Marketing,Female,Sales Executive,3,6118,3,10,10,1
+458,27,Sales,4,Marketing,Female,Sales Executive,2,6214,3,8,8,0
+460,37,Research & Development,2,Medical,Male,Manufacturing Director,4,6347,3,8,6,0
+461,38,Research & Development,2,Life Sciences,Male,Research Director,4,11510,3,12,11,2
+462,31,Research & Development,4,Medical,Female,Manufacturing Director,4,7143,3,11,11,4
+463,29,Sales,1,Marketing,Female,Sales Executive,2,8268,3,7,7,1
+464,35,Research & Development,4,Technical Degree,Male,Manufacturing Director,2,8095,3,17,16,0
+465,23,Research & Development,1,Life Sciences,Male,Research Scientist,4,2904,3,4,4,0
+466,41,Research & Development,3,Medical,Male,Manufacturing Director,2,6032,3,8,5,1
+467,47,Sales,1,Medical,Male,Sales Representative,3,2976,3,5,0,0
+468,42,Research & Development,5,Life Sciences,Female,Research Director,4,15992,3,16,1,0
+469,29,Sales,3,Life Sciences,Male,Sales Executive,3,4649,3,4,4,0
+470,42,Human Resources,1,Technical Degree,Male,Human Resources,3,2696,3,4,3,1
+471,32,Research & Development,3,Medical,Female,Laboratory Technician,2,2370,3,8,8,0
+473,48,Sales,1,Medical,Female,Manager,3,12504,4,15,0,0
+474,37,Research & Development,3,Medical,Male,Research Scientist,1,5974,3,13,7,6
+475,30,Sales,2,Technical Degree,Female,Sales Executive,3,4736,3,4,2,2
+476,26,Sales,3,Life Sciences,Male,Sales Executive,3,5296,3,8,8,7
+477,42,Research & Development,4,Other,Male,Healthcare Representative,4,6781,4,14,1,0
+478,21,Sales,1,Technical Degree,Female,Sales Representative,2,2174,3,3,3,1
+479,36,Sales,5,Medical,Female,Sales Executive,4,6653,3,7,1,0
+481,36,Sales,4,Medical,Male,Sales Executive,4,9699,3,16,13,1
+482,57,Research & Development,4,Medical,Male,Healthcare Representative,3,6755,3,15,3,1
+483,40,Research & Development,4,Life Sciences,Female,Laboratory Technician,3,2213,3,10,7,1
+484,21,Sales,2,Medical,Male,Sales Representative,4,2610,4,3,3,2
+485,33,Sales,3,Marketing,Female,Sales Representative,3,2851,3,1,1,0
+486,37,Research & Development,3,Medical,Female,Laboratory Technician,1,3452,4,17,5,0
+487,46,Research & Development,4,Medical,Female,Manufacturing Director,3,5258,3,7,1,0
+488,41,Sales,3,Marketing,Male,Sales Executive,2,9355,3,8,8,7
+491,50,Research & Development,3,Technical Degree,Male,Healthcare Representative,4,10496,3,20,4,1
+492,40,Sales,2,Marketing,Male,Sales Executive,3,6380,3,8,6,1
+493,31,Research & Development,4,Life Sciences,Male,Research Scientist,2,2657,3,3,2,2
+494,21,Sales,3,Life Sciences,Female,Sales Representative,2,2716,3,1,1,0
+495,29,Research & Development,3,Life Sciences,Male,Research Scientist,4,2201,3,6,3,1
+496,35,Research & Development,4,Life Sciences,Male,Healthcare Representative,2,6540,3,10,1,0
+497,27,Research & Development,2,Medical,Male,Laboratory Technician,2,3816,3,5,5,0
+498,28,Sales,4,Life Sciences,Male,Sales Executive,4,5253,3,7,7,0
+499,49,Research & Development,3,Other,Male,Healthcare Representative,3,10965,4,26,5,0
+500,51,Sales,2,Life Sciences,Female,Sales Executive,4,4936,3,18,7,0
+501,36,Research & Development,3,Life Sciences,Female,Research Scientist,3,2543,3,6,2,2
+502,34,Sales,3,Marketing,Male,Sales Executive,4,5304,3,9,5,0
+505,55,Research & Development,3,Life Sciences,Female,Manager,4,16659,3,30,5,1
+507,24,Sales,4,Marketing,Female,Sales Executive,3,4260,3,5,5,0
+508,30,Sales,1,Technical Degree,Male,Sales Representative,2,2476,3,1,1,0
+510,26,Research & Development,1,Technical Degree,Male,Research Scientist,1,3102,4,7,6,0
+511,22,Research & Development,3,Medical,Female,Research Scientist,2,2244,3,2,2,1
+513,36,Sales,2,Medical,Male,Sales Executive,3,7596,3,10,10,9
+514,30,Research & Development,3,Technical Degree,Male,Research Scientist,4,2285,4,3,1,0
+515,37,Research & Development,3,Life Sciences,Female,Laboratory Technician,1,3034,3,18,18,12
+516,40,Sales,2,Marketing,Female,Sales Executive,2,5715,3,8,5,1
+517,42,Research & Development,4,Life Sciences,Female,Laboratory Technician,1,2576,3,8,5,1
+518,37,Research & Development,4,Life Sciences,Male,Manufacturing Director,2,4197,3,18,1,0
+520,43,Research & Development,3,Life Sciences,Male,Research Director,2,14336,3,25,25,3
+521,40,Research & Development,3,Medical,Female,Laboratory Technician,3,3448,4,20,1,0
+522,54,Research & Development,2,Medical,Male,Research Director,1,19406,3,24,4,1
+523,34,Sales,4,Marketing,Female,Sales Executive,3,6538,3,6,3,1
+524,31,Research & Development,2,Medical,Female,Manufacturing Director,1,4306,3,13,13,3
+525,43,Research & Development,3,Medical,Male,Laboratory Technician,4,2258,4,8,3,1
+526,43,Research & Development,4,Other,Female,Healthcare Representative,3,4522,3,8,5,0
+527,25,Sales,2,Life Sciences,Female,Sales Executive,4,4487,3,5,5,1
+529,37,Research & Development,5,Medical,Female,Research Scientist,3,4449,3,15,13,10
+530,31,Research & Development,2,Life Sciences,Male,Laboratory Technician,1,2218,3,4,4,3
+531,39,Research & Development,1,Life Sciences,Male,Manager,3,19197,3,21,21,1
+532,56,Sales,3,Life Sciences,Female,Sales Executive,1,13212,3,36,7,7
+533,30,Sales,3,Technical Degree,Female,Sales Executive,3,6577,3,6,5,4
+534,41,Sales,3,Marketing,Male,Sales Executive,1,8392,3,10,10,0
+536,28,Research & Development,2,Medical,Male,Laboratory Technician,1,4558,3,10,10,1
+538,25,Research & Development,3,Medical,Male,Laboratory Technician,1,4031,3,6,2,0
+543,52,Research & Development,3,Medical,Male,Manufacturing Director,3,7969,3,28,5,0
+544,45,Research & Development,2,Life Sciences,Male,Research Scientist,4,2654,4,8,2,0
+546,52,Research & Development,2,Life Sciences,Female,Manager,4,16555,3,31,5,1
+547,42,Research & Development,2,Life Sciences,Female,Research Scientist,3,4556,3,19,5,0
+548,30,Research & Development,3,Life Sciences,Female,Manufacturing Director,4,6091,4,11,5,0
+549,60,Research & Development,3,Life Sciences,Female,Manager,1,19566,3,33,29,11
+550,46,Research & Development,3,Medical,Female,Manufacturing Director,3,4810,3,19,10,0
+551,42,Research & Development,4,Technical Degree,Female,Healthcare Representative,4,4523,3,7,6,0
+554,24,Sales,1,Technical Degree,Female,Sales Representative,2,3202,3,6,5,1
+555,34,Sales,2,Marketing,Female,Sales Representative,3,2351,3,3,2,1
+556,38,Research & Development,2,Life Sciences,Male,Laboratory Technician,4,1702,4,1,1,0
+558,40,Sales,4,Life Sciences,Female,Manager,3,18041,3,21,20,1
+560,26,Research & Development,3,Life Sciences,Female,Research Scientist,4,2886,4,3,3,0
+562,30,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,2097,3,9,5,1
+564,29,Research & Development,4,Medical,Male,Research Director,3,11935,3,10,10,0
+565,29,Research & Development,5,Technical Degree,Female,Research Scientist,2,2546,3,6,2,1
+566,19,Human Resources,2,Technical Degree,Male,Human Resources,4,2564,3,1,1,0
+567,30,Sales,4,Other,Female,Sales Executive,1,8412,3,10,9,7
+568,57,Sales,3,Marketing,Male,Manager,4,14118,3,32,1,0
+569,50,Research & Development,4,Life Sciences,Male,Manager,3,17046,3,28,27,15
+571,30,Research & Development,3,Medical,Female,Laboratory Technician,4,2564,3,12,11,6
+573,60,Sales,3,Marketing,Female,Sales Executive,1,10266,3,22,18,13
+574,47,Research & Development,2,Medical,Female,Manufacturing Director,4,5070,3,20,5,0
+575,46,Research & Development,3,Life Sciences,Male,Research Director,3,17861,3,26,3,0
+577,35,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,4230,3,6,5,4
+578,54,Research & Development,4,Life Sciences,Female,Laboratory Technician,3,3780,3,19,1,0
+579,34,Research & Development,4,Life Sciences,Male,Research Scientist,3,2768,3,14,7,5
+580,46,Sales,3,Marketing,Female,Sales Executive,4,9071,3,15,3,1
+581,31,Research & Development,1,Life Sciences,Male,Manufacturing Director,2,10648,4,13,13,0
+582,33,Research & Development,1,Medical,Male,Manager,3,13610,3,15,7,7
+584,33,Research & Development,1,Medical,Male,Laboratory Technician,4,3408,3,8,4,1
+585,30,Sales,1,Marketing,Male,Sales Representative,2,2983,3,4,3,1
+586,35,Research & Development,3,Life Sciences,Male,Healthcare Representative,3,7632,3,10,8,0
+587,31,Research & Development,3,Life Sciences,Male,Healthcare Representative,3,9824,3,12,1,0
+590,34,Human Resources,3,Human Resources,Female,Human Resources,1,9950,3,11,3,0
+591,42,Research & Development,2,Other,Male,Laboratory Technician,3,2093,3,8,2,2
+592,36,Sales,4,Medical,Male,Sales Executive,4,9980,3,10,10,9
+593,22,Research & Development,1,Technical Degree,Male,Laboratory Technician,3,3894,3,4,2,1
+595,48,Sales,5,Marketing,Female,Sales Executive,4,4051,3,14,9,6
+597,55,Sales,5,Life Sciences,Female,Manager,2,16835,4,37,10,7
+599,41,Sales,2,Life Sciences,Male,Sales Executive,4,6230,3,16,14,1
+600,35,Sales,3,Marketing,Male,Sales Executive,3,4717,3,15,11,6
+601,40,Research & Development,3,Life Sciences,Female,Manufacturing Director,3,13237,3,22,20,5
+602,39,Research & Development,1,Life Sciences,Female,Laboratory Technician,3,3755,3,8,8,0
+604,31,Sales,1,Life Sciences,Male,Sales Executive,4,6582,3,10,6,0
+605,42,Research & Development,3,Medical,Male,Manufacturing Director,1,7406,4,10,10,5
+606,45,Sales,3,Other,Male,Sales Executive,2,4805,3,9,8,3
+608,26,Human Resources,4,Life Sciences,Female,Human Resources,3,2741,3,8,7,1
+611,29,Research & Development,3,Technical Degree,Male,Manufacturing Director,4,4262,3,8,3,1
+612,33,Research & Development,5,Medical,Female,Research Director,3,16184,3,10,6,0
+613,31,Sales,3,Life Sciences,Male,Manager,4,11557,4,10,5,0
+614,18,Sales,3,Marketing,Male,Sales Representative,2,1878,3,0,0,0
+615,40,Sales,3,Other,Male,Sales Executive,1,10932,3,20,1,0
+616,41,Research & Development,4,Other,Female,Healthcare Representative,3,6811,3,10,8,0
+618,26,Sales,2,Medical,Male,Sales Executive,3,4306,3,8,0,0
+620,35,Sales,3,Medical,Female,Sales Executive,3,4859,3,5,5,0
+621,34,Sales,4,Life Sciences,Male,Sales Executive,4,5337,3,10,10,5
+622,26,Research & Development,3,Technical Degree,Male,Laboratory Technician,4,2340,3,1,1,0
+623,37,Research & Development,3,Technical Degree,Female,Manufacturing Director,4,7491,3,12,6,1
+624,46,Research & Development,1,Medical,Female,Healthcare Representative,3,10527,3,28,2,1
+625,41,Sales,5,Life Sciences,Female,Manager,1,16595,3,22,18,11
+626,37,Sales,4,Medical,Male,Sales Executive,2,8834,3,9,9,7
+630,52,Research & Development,2,Technical Degree,Male,Research Scientist,1,5577,3,18,10,6
+631,32,Sales,4,Other,Male,Sales Executive,3,4707,3,6,4,1
+632,24,Sales,3,Medical,Male,Sales Representative,4,2400,3,3,2,2
+634,38,Research & Development,3,Medical,Female,Healthcare Representative,3,9824,3,18,1,0
+635,37,Research & Development,4,Life Sciences,Female,Manufacturing Director,2,6447,3,8,6,4
+638,49,Research & Development,4,Life Sciences,Male,Research Director,3,19502,3,31,31,0
+639,24,Research & Development,3,Medical,Male,Research Scientist,4,2725,3,6,6,1
+641,26,Sales,2,Marketing,Male,Sales Executive,2,6272,4,6,5,1
+643,24,Research & Development,2,Other,Male,Laboratory Technician,2,2127,4,1,1,0
+644,50,Human Resources,3,Medical,Male,Manager,2,18200,3,32,32,10
+645,25,Sales,1,Medical,Male,Sales Representative,3,2096,3,7,7,0
+647,24,Research & Development,3,Life Sciences,Female,Laboratory Technician,3,2886,3,6,6,1
+648,30,Sales,4,Life Sciences,Male,Sales Representative,1,2033,3,1,1,0
+649,34,Research & Development,2,Life Sciences,Male,Research Scientist,4,3622,3,6,6,1
+650,31,Sales,4,Medical,Male,Sales Executive,1,4233,3,9,3,1
+652,35,Research & Development,2,Other,Male,Laboratory Technician,4,3681,3,9,3,0
+653,31,Sales,4,Medical,Male,Sales Executive,4,5460,4,13,7,5
+655,27,Research & Development,4,Medical,Female,Research Scientist,3,2187,3,6,5,0
+656,37,Sales,3,Marketing,Male,Sales Executive,3,9602,3,17,3,1
+657,20,Research & Development,3,Life Sciences,Female,Research Scientist,2,2836,3,1,1,0
+659,42,Research & Development,4,Life Sciences,Female,Healthcare Representative,4,4089,3,10,10,2
+661,43,Research & Development,4,Other,Male,Research Director,4,16627,3,21,1,0
+662,38,Research & Development,1,Life Sciences,Female,Research Scientist,1,2619,3,8,0,0
+663,43,Research & Development,5,Medical,Male,Laboratory Technician,3,5679,3,10,8,4
+664,48,Research & Development,4,Life Sciences,Female,Manager,1,15402,3,21,3,0
+665,44,Human Resources,4,Life Sciences,Female,Human Resources,3,5985,3,10,2,0
+666,34,Sales,3,Technical Degree,Female,Sales Representative,3,2579,3,8,8,0
+667,27,Sales,1,Marketing,Male,Sales Representative,1,3041,3,5,4,0
+669,21,Sales,1,Technical Degree,Male,Sales Representative,3,3447,3,3,3,1
+671,44,Research & Development,4,Other,Male,Manager,4,19513,3,26,2,0
+675,22,Research & Development,1,Medical,Male,Research Scientist,3,2773,4,3,2,2
+677,33,Sales,4,Marketing,Male,Sales Executive,3,7104,3,6,5,1
+679,32,Research & Development,4,Life Sciences,Female,Research Scientist,4,6322,3,6,6,0
+680,30,Research & Development,3,Medical,Female,Research Scientist,3,2083,4,1,1,0
+682,53,Sales,1,Medical,Female,Sales Executive,1,8381,4,18,14,8
+683,34,Research & Development,5,Life Sciences,Male,Research Scientist,4,2691,3,10,10,8
+684,45,Sales,4,Life Sciences,Female,Sales Executive,1,4286,3,5,1,0
+686,26,Research & Development,3,Life Sciences,Female,Laboratory Technician,4,2659,3,3,3,0
+689,37,Research & Development,3,Other,Male,Manufacturing Director,3,9434,3,10,10,7
+690,29,Sales,2,Medical,Female,Sales Executive,3,5561,3,6,6,1
+691,35,Research & Development,4,Life Sciences,Male,Research Scientist,4,6646,3,17,17,11
+692,33,Research & Development,3,Life Sciences,Male,Healthcare Representative,4,7725,4,15,13,4
+698,54,Human Resources,4,Medical,Male,Human Resources,2,10725,3,16,9,7
+699,36,Research & Development,2,Medical,Male,Manufacturing Director,2,8847,3,13,3,0
+700,27,Research & Development,4,Medical,Male,Research Scientist,4,2045,3,5,4,1
+701,20,Research & Development,1,Medical,Male,Research Scientist,3,1009,3,1,1,1
+702,33,Research & Development,3,Life Sciences,Male,Research Scientist,1,3348,3,10,10,9
+704,35,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,1281,3,1,1,0
+705,23,Research & Development,3,Medical,Male,Research Scientist,1,2819,3,5,3,0
+707,25,Sales,3,Life Sciences,Male,Sales Executive,2,4851,4,4,3,1
+709,38,Sales,4,Marketing,Female,Sales Executive,4,4028,4,8,7,0
+710,29,Research & Development,4,Life Sciences,Male,Research Scientist,4,2720,3,10,10,2
+712,48,Sales,1,Marketing,Male,Sales Executive,2,8120,3,12,2,2
+714,27,Sales,1,Medical,Female,Sales Executive,4,4647,4,6,6,0
+715,37,Research & Development,2,Life Sciences,Male,Research Scientist,4,4680,3,4,1,0
+716,50,Research & Development,1,Medical,Male,Laboratory Technician,3,3221,3,20,20,3
+717,34,Research & Development,3,Medical,Female,Healthcare Representative,2,8621,3,9,8,7
+720,24,Sales,2,Life Sciences,Female,Sales Executive,3,4577,3,4,2,2
+721,39,Research & Development,4,Technical Degree,Female,Healthcare Representative,3,4553,3,20,20,11
+722,32,Sales,3,Marketing,Male,Sales Executive,4,5396,3,10,10,0
+723,50,Sales,2,Technical Degree,Male,Sales Executive,3,6796,3,18,4,1
+724,38,Research & Development,4,Life Sciences,Female,Healthcare Representative,4,7625,3,10,9,1
+725,27,Research & Development,2,Life Sciences,Female,Manufacturing Director,1,7412,3,9,9,0
+727,32,Research & Development,2,Life Sciences,Female,Research Director,4,11159,3,10,7,7
+728,47,Sales,4,Marketing,Male,Sales Executive,1,4960,3,20,7,1
+729,40,Sales,4,Life Sciences,Male,Sales Executive,1,10475,4,20,18,1
+730,53,Research & Development,3,Life Sciences,Male,Research Director,3,14814,3,32,5,1
+731,41,Human Resources,4,Human Resources,Male,Manager,4,19141,3,23,21,12
+732,60,Sales,4,Marketing,Male,Sales Executive,1,5405,3,10,2,2
+733,27,Research & Development,2,Life Sciences,Male,Manufacturing Director,1,8793,4,9,9,1
+734,41,Human Resources,3,Human Resources,Male,Manager,3,19189,3,22,22,2
+738,50,Sales,4,Marketing,Male,Sales Representative,2,3875,3,4,2,2
+741,28,Research & Development,2,Life Sciences,Female,Research Scientist,2,2216,3,10,7,3
+742,36,Research & Development,3,Life Sciences,Female,Research Director,1,11713,3,10,8,0
+743,38,Research & Development,3,Life Sciences,Female,Manufacturing Director,3,7861,3,10,1,0
+744,44,Research & Development,3,Medical,Male,Laboratory Technician,3,3708,3,9,5,1
+746,47,Sales,3,Medical,Female,Sales Executive,3,13770,3,28,22,11
+747,30,Sales,5,Marketing,Male,Sales Executive,4,5304,4,10,8,7
+749,29,Sales,3,Life Sciences,Male,Sales Representative,3,2642,3,1,1,0
+752,42,Research & Development,3,Medical,Male,Research Scientist,3,2759,3,7,2,2
+754,43,Sales,3,Life Sciences,Male,Sales Executive,4,6804,3,7,2,2
+757,34,Research & Development,2,Medical,Female,Healthcare Representative,3,6142,3,10,5,4
+758,23,Research & Development,1,Medical,Male,Laboratory Technician,1,2500,3,5,4,0
+760,39,Human Resources,3,Human Resources,Female,Human Resources,2,6389,3,12,8,3
+762,56,Research & Development,3,Medical,Male,Healthcare Representative,4,11103,3,30,10,1
+763,40,Research & Development,1,Medical,Female,Research Scientist,4,2342,4,5,4,2
+764,27,Research & Development,3,Medical,Female,Healthcare Representative,1,6811,3,9,7,0
+766,29,Sales,3,Marketing,Male,Sales Representative,2,2297,3,2,2,2
+769,53,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,2450,3,19,2,2
+771,35,Research & Development,4,Life Sciences,Female,Healthcare Representative,1,5093,3,16,1,0
+772,32,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,5309,3,10,10,4
+773,38,Research & Development,5,Medical,Male,Research Scientist,3,3057,3,6,1,0
+775,34,Research & Development,5,Life Sciences,Female,Manufacturing Director,1,5121,3,7,0,0
+776,52,Sales,4,Marketing,Male,Manager,1,16856,3,34,34,1
+780,33,Research & Development,4,Other,Male,Research Scientist,4,2686,3,10,10,7
+781,25,Sales,1,Medical,Female,Sales Executive,4,6180,4,6,6,1
+783,45,Sales,2,Technical Degree,Male,Sales Representative,3,6632,3,9,8,3
+784,23,Research & Development,1,Medical,Male,Research Scientist,3,3505,3,2,2,0
+785,47,Sales,2,Life Sciences,Female,Sales Executive,3,6397,3,8,5,1
+786,34,Sales,3,Other,Male,Sales Executive,4,6274,4,6,6,1
+787,55,Research & Development,3,Medical,Male,Manager,1,19859,3,24,5,1
+789,36,Sales,4,Life Sciences,Male,Sales Executive,1,7587,3,10,10,0
+791,52,Research & Development,4,Medical,Male,Research Scientist,4,4258,3,5,4,1
+792,26,Research & Development,2,Life Sciences,Female,Laboratory Technician,4,4364,3,5,2,2
+793,29,Research & Development,3,Medical,Female,Healthcare Representative,3,4335,3,11,8,1
+796,26,Sales,3,Technical Degree,Male,Sales Executive,1,5326,3,6,4,1
+797,34,Research & Development,4,Life Sciences,Female,Research Scientist,4,3280,3,10,4,1
+799,54,Research & Development,4,Medical,Female,Manufacturing Director,1,5485,3,9,5,1
+800,27,Sales,1,Marketing,Male,Sales Executive,4,4342,3,5,4,1
+802,37,Research & Development,1,Life Sciences,Female,Research Scientist,1,2782,3,6,5,4
+803,38,Research & Development,4,Life Sciences,Female,Manufacturing Director,1,5980,3,17,15,4
+804,34,Research & Development,4,Medical,Female,Research Scientist,1,4381,3,6,6,1
+805,35,Sales,4,Life Sciences,Female,Sales Representative,4,2572,3,3,3,0
+806,30,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,3833,4,7,2,0
+807,40,Research & Development,2,Medical,Female,Healthcare Representative,2,4244,4,8,8,3
+808,34,Sales,2,Life Sciences,Female,Sales Executive,1,6500,3,6,3,1
+809,42,Research & Development,3,Life Sciences,Male,Manager,4,18430,3,24,24,14
+811,23,Research & Development,3,Life Sciences,Male,Laboratory Technician,1,1601,4,1,0,0
+812,24,Research & Development,3,Life Sciences,Male,Laboratory Technician,2,2694,3,1,1,0
+813,52,Research & Development,4,Life Sciences,Female,Laboratory Technician,3,3149,4,9,5,1
+815,50,Research & Development,3,Medical,Male,Research Director,3,17639,3,30,4,0
+816,29,Research & Development,2,Life Sciences,Female,Laboratory Technician,1,2319,3,1,1,0
+817,33,Research & Development,3,Medical,Male,Research Director,3,11691,3,14,13,3
+819,33,Sales,3,Marketing,Female,Sales Executive,1,5324,3,6,3,0
+820,47,Research & Development,2,Other,Female,Manager,4,16752,3,26,26,3
+823,36,Research & Development,3,Other,Female,Manufacturing Director,2,5228,3,10,9,0
+824,29,Research & Development,2,Life Sciences,Male,Research Scientist,3,2700,4,10,10,0
+825,58,Research & Development,4,Life Sciences,Male,Research Director,2,19246,3,40,31,13
+826,35,Research & Development,4,Life Sciences,Female,Research Scientist,3,2506,3,7,2,2
+827,42,Research & Development,2,Life Sciences,Female,Manufacturing Director,4,6062,3,8,4,0
+828,28,Research & Development,4,Medical,Male,Research Scientist,3,4382,3,5,2,2
+829,36,Human Resources,3,Human Resources,Male,Human Resources,2,2143,3,8,5,0
+830,32,Research & Development,3,Life Sciences,Female,Manufacturing Director,3,6162,3,14,14,6
+832,40,Research & Development,4,Medical,Male,Laboratory Technician,3,5094,3,10,1,0
+833,30,Research & Development,3,Medical,Female,Manufacturing Director,4,6877,4,12,0,0
+834,45,Research & Development,3,Life Sciences,Female,Research Scientist,3,2274,3,1,1,0
+836,42,Research & Development,3,Life Sciences,Male,Manufacturing Director,2,4434,3,10,9,7
+837,38,Research & Development,3,Life Sciences,Male,Healthcare Representative,1,6288,3,13,4,1
+838,34,Research & Development,4,Life Sciences,Female,Research Scientist,4,2553,3,6,5,1
+840,49,Sales,3,Marketing,Female,Sales Executive,4,7654,3,9,9,7
+842,55,Sales,1,Medical,Male,Sales Executive,4,5160,3,12,9,7
+843,43,Research & Development,2,Life Sciences,Male,Research Director,1,17159,4,22,4,1
+844,27,Research & Development,1,Technical Degree,Male,Research Director,4,12808,3,9,9,0
+845,35,Research & Development,3,Other,Male,Manufacturing Director,3,10221,4,17,8,1
+846,28,Sales,4,Marketing,Female,Sales Executive,2,4779,4,8,8,7
+847,34,Human Resources,2,Human Resources,Male,Human Resources,4,3737,3,4,3,0
+848,26,Research & Development,2,Medical,Female,Research Scientist,3,2366,3,8,8,1
+850,27,Research & Development,3,Medical,Male,Research Scientist,4,1706,3,0,0,0
+851,51,Sales,4,Marketing,Female,Manager,3,16307,3,29,20,4
+852,44,Research & Development,3,Medical,Male,Healthcare Representative,2,5933,3,10,5,2
+854,25,Research & Development,1,Medical,Male,Research Scientist,1,3424,3,6,4,0
+855,33,Sales,3,Medical,Male,Sales Executive,1,4037,4,9,9,0
+856,35,Research & Development,1,Medical,Female,Research Scientist,1,2559,3,6,6,1
+857,36,Sales,2,Life Sciences,Male,Sales Executive,4,6201,3,18,18,4
+859,32,Sales,4,Life Sciences,Male,Sales Executive,4,4403,3,8,5,0
+861,30,Research & Development,4,Life Sciences,Male,Research Scientist,4,3761,3,10,5,0
+862,53,Sales,2,Marketing,Female,Sales Executive,4,10934,3,35,5,0
+864,45,Sales,3,Marketing,Male,Sales Executive,1,10761,3,18,5,0
+865,32,Research & Development,2,Medical,Female,Research Scientist,3,5175,3,9,5,1
+867,52,Research & Development,4,Medical,Female,Manufacturing Director,4,13826,4,31,9,0
+868,37,Sales,4,Marketing,Male,Sales Executive,3,6334,3,9,1,0
+869,28,Human Resources,2,Medical,Male,Human Resources,4,4936,3,6,5,0
+872,22,Research & Development,2,Life Sciences,Male,Manufacturing Director,4,4775,4,4,2,2
+874,44,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,2818,4,10,3,0
+875,42,Research & Development,1,Medical,Male,Research Scientist,4,2515,3,8,2,2
+878,36,Human Resources,3,Life Sciences,Male,Human Resources,1,2342,4,6,5,0
+879,25,Sales,1,Other,Male,Sales Executive,1,4194,3,5,5,0
+880,35,Research & Development,3,Life Sciences,Female,Manufacturing Director,3,10685,4,17,17,5
+881,35,Research & Development,4,Life Sciences,Female,Research Scientist,2,2022,3,10,10,7
+882,32,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,2314,3,4,3,0
+885,25,Sales,1,Marketing,Male,Sales Executive,1,4256,3,5,5,0
+887,49,Research & Development,3,Technical Degree,Female,Research Scientist,1,3580,3,7,4,0
+888,24,Research & Development,1,Life Sciences,Male,Laboratory Technician,4,3162,3,6,5,3
+889,32,Sales,2,Life Sciences,Male,Sales Executive,2,6524,3,10,10,5
+893,38,Sales,3,Marketing,Male,Sales Representative,2,2899,3,3,2,1
+894,42,Research & Development,3,Life Sciences,Female,Laboratory Technician,4,5231,3,17,5,1
+895,31,Research & Development,4,Life Sciences,Male,Research Scientist,4,2356,3,8,6,0
+896,29,Sales,3,Medical,Female,Sales Representative,3,2800,3,5,3,0
+897,53,Sales,3,Marketing,Male,Sales Executive,4,11836,3,28,2,2
+899,35,Research & Development,3,Technical Degree,Male,Manufacturing Director,2,10903,3,16,13,4
+900,37,Sales,2,Medical,Female,Sales Representative,4,2973,3,10,5,0
+901,53,Research & Development,4,Life Sciences,Female,Research Director,4,14275,3,33,12,3
+902,43,Research & Development,3,Life Sciences,Female,Healthcare Representative,4,5562,3,12,5,2
+903,47,Sales,2,Marketing,Female,Sales Executive,4,4537,4,8,7,7
+904,37,Sales,2,Medical,Male,Sales Executive,2,7642,3,10,10,0
+905,50,Research & Development,4,Life Sciences,Male,Manager,1,17924,3,31,31,14
+909,39,Human Resources,3,Life Sciences,Female,Human Resources,4,5204,3,13,5,0
+910,33,Human Resources,2,Human Resources,Male,Human Resources,2,2277,3,7,4,0
+911,32,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,2795,4,1,1,0
+912,29,Research & Development,1,Medical,Female,Laboratory Technician,4,2532,3,8,4,0
+913,44,Research & Development,2,Life Sciences,Male,Research Scientist,1,2559,3,8,8,7
+916,28,Sales,4,Medical,Male,Sales Executive,4,4908,3,4,4,0
+918,58,Research & Development,1,Life Sciences,Male,Laboratory Technician,4,2380,3,3,1,0
+920,43,Research & Development,3,Life Sciences,Female,Manufacturing Director,2,4765,4,4,1,0
+922,20,Sales,3,Medical,Female,Sales Representative,3,2044,3,2,2,0
+923,21,Research & Development,1,Other,Female,Research Scientist,4,2693,3,1,1,0
+924,36,Research & Development,1,Life Sciences,Male,Healthcare Representative,4,6586,3,17,16,4
+925,47,Sales,4,Life Sciences,Female,Sales Representative,4,3294,3,3,3,1
+926,22,Research & Development,1,Life Sciences,Female,Manufacturing Director,3,4171,3,4,3,0
+927,41,Research & Development,4,Life Sciences,Female,Laboratory Technician,4,2778,3,10,7,1
+930,28,Research & Development,3,Medical,Female,Research Scientist,3,2377,3,6,2,2
+932,39,Research & Development,3,Medical,Male,Laboratory Technician,1,2404,4,8,2,2
+933,27,Research & Development,3,Life Sciences,Female,Research Scientist,3,2318,3,1,1,0
+934,34,Research & Development,3,Life Sciences,Male,Laboratory Technician,2,2008,3,1,1,1
+936,42,Sales,2,Medical,Female,Sales Executive,3,6244,3,10,5,0
+939,33,Research & Development,4,Other,Male,Research Scientist,1,2799,3,6,3,0
+940,58,Research & Development,3,Technical Degree,Female,Healthcare Representative,2,10552,3,24,6,0
+941,31,Sales,4,Life Sciences,Male,Sales Representative,3,2329,3,13,7,5
+942,35,Research & Development,1,Life Sciences,Female,Healthcare Representative,4,4014,4,10,10,0
+944,49,Research & Development,2,Other,Female,Laboratory Technician,2,7403,3,29,26,1
+945,48,Research & Development,4,Medical,Male,Research Scientist,3,2259,3,13,0,0
+947,31,Sales,2,Marketing,Female,Sales Executive,3,6932,3,9,9,0
+949,36,Research & Development,4,Other,Male,Research Scientist,4,4678,3,8,6,0
+950,38,Research & Development,3,Technical Degree,Female,Research Director,1,13582,3,15,15,5
+951,32,Research & Development,3,Life Sciences,Female,Laboratory Technician,2,2332,4,5,3,0
+952,25,Sales,2,Marketing,Male,Sales Representative,2,2413,3,1,1,0
+954,40,Sales,4,Marketing,Male,Sales Executive,2,9705,3,11,1,0
+956,26,Sales,3,Medical,Male,Sales Executive,1,4294,3,7,7,0
+957,41,Research & Development,3,Medical,Male,Laboratory Technician,1,4721,3,20,18,2
+958,36,Research & Development,4,Medical,Male,Laboratory Technician,3,2519,4,16,11,3
+959,19,Sales,3,Other,Male,Sales Representative,2,2121,3,1,1,0
+960,20,Research & Development,3,Technical Degree,Male,Laboratory Technician,1,2973,3,1,1,0
+961,31,Research & Development,3,Medical,Female,Healthcare Representative,4,5855,3,10,9,8
+964,40,Research & Development,4,Medical,Male,Research Scientist,2,3617,3,3,1,0
+966,32,Research & Development,4,Medical,Female,Manufacturing Director,1,6725,3,8,8,6
+967,36,Sales,1,Life Sciences,Male,Sales Executive,4,10325,3,16,16,3
+969,33,Research & Development,3,Life Sciences,Female,Healthcare Representative,4,6949,3,6,5,1
+970,37,Sales,4,Life Sciences,Male,Sales Executive,3,10609,3,17,14,11
+972,45,Research & Development,2,Life Sciences,Male,Laboratory Technician,2,4447,3,9,9,0
+974,29,Sales,3,Technical Degree,Female,Sales Representative,4,2157,3,3,3,0
+975,35,Sales,3,Medical,Female,Sales Executive,3,4601,3,5,5,1
+976,52,Research & Development,2,Life Sciences,Male,Manager,4,17099,3,26,9,7
+977,58,Research & Development,3,Technical Degree,Male,Research Scientist,3,2479,4,7,1,0
+981,53,Sales,2,Medical,Male,Manager,3,14852,3,22,17,15
+982,30,Sales,2,Other,Male,Sales Executive,3,7264,3,10,8,7
+983,38,Sales,3,Technical Degree,Female,Sales Executive,4,5666,3,6,5,1
+984,35,Sales,4,Life Sciences,Male,Sales Executive,4,7823,3,12,10,0
+985,39,Sales,5,Life Sciences,Male,Sales Executive,3,7880,3,9,8,0
+986,40,Sales,3,Life Sciences,Female,Sales Executive,2,13194,3,22,1,0
+987,47,Research & Development,4,Medical,Male,Manufacturing Director,3,5067,3,20,19,2
+990,36,Sales,4,Technical Degree,Male,Sales Executive,4,5079,3,12,7,0
+991,31,Research & Development,2,Medical,Male,Research Scientist,1,2321,4,4,3,1
+992,33,Sales,3,Life Sciences,Male,Manager,3,17444,3,10,10,6
+994,29,Research & Development,3,Life Sciences,Female,Research Scientist,1,2404,4,3,0,0
+995,33,Research & Development,1,Life Sciences,Female,Research Scientist,4,3452,3,5,3,0
+996,45,Research & Development,4,Medical,Female,Laboratory Technician,4,2270,3,8,5,0
+997,50,Research & Development,2,Medical,Male,Research Director,4,17399,4,32,5,1
+998,33,Research & Development,4,Other,Female,Healthcare Representative,2,5488,3,6,6,1
+999,41,Research & Development,3,Medical,Male,Research Director,3,19419,3,21,18,0
+1001,27,Research & Development,4,Technical Degree,Female,Laboratory Technician,2,2811,3,4,2,2
+1002,45,Research & Development,2,Life Sciences,Male,Laboratory Technician,1,3633,3,9,9,0
+1003,47,Sales,2,Life Sciences,Female,Sales Executive,4,4163,3,9,9,0
+1004,30,Research & Development,3,Life Sciences,Female,Research Scientist,3,2132,3,7,5,0
+1005,50,Research & Development,3,Life Sciences,Male,Manufacturing Director,3,13973,3,22,12,1
+1006,38,Research & Development,1,Medical,Male,Research Scientist,3,2684,3,3,2,0
+1007,46,Research & Development,2,Medical,Male,Manufacturing Director,3,10845,3,13,8,0
+1009,24,Research & Development,1,Medical,Female,Manufacturing Director,3,4377,3,5,4,3
+1010,35,Research & Development,4,Other,Male,Laboratory Technician,2,3743,4,5,4,0
+1011,31,Research & Development,1,Life Sciences,Female,Manufacturing Director,1,4148,3,4,4,0
+1012,18,Research & Development,2,Life Sciences,Male,Research Scientist,4,1051,3,0,0,0
+1013,54,Research & Development,3,Technical Degree,Female,Manufacturing Director,3,10739,3,22,10,0
+1014,35,Research & Development,4,Medical,Female,Healthcare Representative,3,10388,3,16,16,10
+1015,30,Research & Development,2,Life Sciences,Female,Research Director,1,11416,3,9,8,1
+1016,20,Research & Development,3,Medical,Female,Research Scientist,1,2600,3,1,1,0
+1017,30,Research & Development,3,Medical,Female,Laboratory Technician,2,2422,3,4,3,1
+1018,26,Research & Development,2,Medical,Male,Manufacturing Director,4,5472,3,8,8,1
+1019,22,Research & Development,1,Life Sciences,Male,Laboratory Technician,1,2451,3,4,4,1
+1022,48,Research & Development,3,Life Sciences,Male,Healthcare Representative,3,4240,3,19,2,2
+1024,48,Research & Development,4,Life Sciences,Male,Healthcare Representative,3,10999,3,27,15,4
+1025,41,Research & Development,2,Medical,Female,Manufacturing Director,3,5003,3,8,2,2
+1026,39,Research & Development,1,Life Sciences,Female,Manufacturing Director,4,12742,3,21,21,11
+1027,27,Research & Development,4,Life Sciences,Female,Manufacturing Director,4,4227,3,4,3,2
+1028,35,Research & Development,3,Other,Male,Laboratory Technician,4,3917,4,3,3,1
+1029,42,Sales,2,Marketing,Male,Manager,3,18303,3,21,1,0
+1030,50,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,2380,3,8,1,0
+1032,59,Research & Development,3,Life Sciences,Female,Manufacturing Director,4,13726,3,30,5,4
+1033,37,Research & Development,2,Medical,Female,Healthcare Representative,2,4777,3,15,1,0
+1034,55,Research & Development,4,Medical,Male,Healthcare Representative,2,6385,3,17,8,6
+1035,41,Research & Development,1,Life Sciences,Female,Research Director,3,19973,4,21,21,5
+1036,38,Sales,4,Life Sciences,Male,Sales Executive,4,6861,3,19,1,0
+1037,26,Sales,2,Medical,Male,Sales Executive,1,4969,3,7,2,2
+1038,52,Sales,1,Marketing,Female,Manager,4,19845,3,33,32,6
+1039,44,Sales,3,Medical,Female,Sales Executive,4,13320,3,23,12,11
+1040,50,Sales,3,Life Sciences,Female,Sales Executive,3,6347,3,19,18,0
+1042,36,Research & Development,4,Life Sciences,Female,Laboratory Technician,1,2743,3,18,17,15
+1043,39,Research & Development,3,Medical,Female,Manufacturing Director,1,10880,3,21,21,2
+1044,33,Sales,1,Life Sciences,Female,Sales Representative,4,2342,3,3,2,2
+1045,45,Sales,2,Life Sciences,Female,Manager,4,17650,3,26,9,1
+1046,32,Research & Development,4,Medical,Female,Laboratory Technician,3,4025,3,10,8,7
+1047,34,Sales,4,Marketing,Male,Sales Executive,4,9725,3,16,15,0
+1048,59,Sales,2,Technical Degree,Male,Manager,4,11904,3,14,6,0
+1049,45,Human Resources,4,Medical,Male,Human Resources,2,2177,3,6,6,0
+1050,53,Sales,3,Marketing,Female,Sales Executive,2,7525,3,30,15,6
+1052,36,Research & Development,3,Other,Male,Laboratory Technician,3,4834,3,9,1,0
+1053,26,Research & Development,3,Life Sciences,Male,Research Scientist,1,2042,3,6,3,1
+1055,34,Sales,4,Life Sciences,Female,Sales Representative,3,2220,3,1,1,0
+1056,28,Sales,1,Medical,Male,Sales Representative,2,1052,4,1,1,0
+1060,38,Research & Development,4,Other,Male,Research Scientist,3,2821,3,8,2,2
+1061,50,Research & Development,4,Medical,Male,Research Director,3,19237,3,29,8,7
+1062,37,Research & Development,3,Other,Female,Healthcare Representative,2,4107,3,8,4,0
+1066,40,Sales,3,Marketing,Male,Sales Executive,1,8396,3,8,7,7
+1068,26,Research & Development,1,Medical,Female,Research Scientist,3,2007,3,5,5,1
+1069,46,Research & Development,4,Medical,Male,Research Director,4,19627,3,23,2,2
+1070,54,Sales,4,Life Sciences,Female,Sales Executive,3,10686,3,13,9,7
+1071,56,Research & Development,3,Medical,Female,Research Scientist,3,2942,3,18,5,0
+1073,36,Research & Development,5,Medical,Female,Manufacturing Director,4,8858,3,15,14,7
+1074,55,Research & Development,1,Medical,Male,Manager,1,16756,3,31,9,6
+1076,43,Sales,3,Medical,Male,Sales Executive,4,10798,3,18,1,0
+1077,20,Sales,3,Marketing,Female,Sales Representative,4,2323,3,2,2,0
+1079,21,Research & Development,3,Life Sciences,Female,Laboratory Technician,1,1416,3,1,1,1
+1080,46,Research & Development,4,Life Sciences,Female,Research Scientist,1,4615,4,19,16,1
+1081,51,Research & Development,4,Life Sciences,Male,Research Scientist,3,2461,3,18,10,2
+1082,28,Research & Development,2,Technical Degree,Male,Healthcare Representative,1,8722,3,10,10,1
+1083,26,Research & Development,2,Medical,Male,Laboratory Technician,1,3955,3,6,5,1
+1084,30,Research & Development,3,Other,Male,Manufacturing Director,1,9957,3,7,6,0
+1085,41,Research & Development,2,Technical Degree,Female,Research Scientist,3,3376,3,10,10,0
+1088,38,Research & Development,1,Life Sciences,Female,Healthcare Representative,3,8823,3,20,19,1
+1092,40,Research & Development,4,Technical Degree,Male,Healthcare Representative,4,10322,4,14,11,11
+1094,27,Research & Development,5,Life Sciences,Male,Laboratory Technician,3,4621,3,3,3,1
+1096,55,Research & Development,1,Life Sciences,Male,Manufacturing Director,2,10976,3,23,3,1
+1097,28,Research & Development,3,Other,Female,Research Scientist,3,3660,3,10,8,1
+1098,44,Human Resources,2,Medical,Male,Human Resources,1,10482,3,24,20,3
+1099,33,Research & Development,3,Life Sciences,Male,Healthcare Representative,4,7119,3,9,3,1
+1100,35,Sales,3,Technical Degree,Male,Sales Executive,1,9582,4,9,8,4
+1101,33,Research & Development,4,Medical,Female,Research Scientist,3,4508,4,14,13,3
+1102,28,Research & Development,2,Life Sciences,Male,Laboratory Technician,3,2207,3,4,4,2
+1103,34,Research & Development,1,Life Sciences,Male,Healthcare Representative,4,7756,3,7,6,0
+1105,37,Sales,4,Life Sciences,Female,Sales Executive,4,6694,3,8,1,0
+1106,25,Research & Development,1,Technical Degree,Male,Laboratory Technician,4,3691,3,7,7,5
+1107,26,Research & Development,3,Medical,Male,Laboratory Technician,3,2377,4,1,1,0
+1108,33,Research & Development,3,Medical,Male,Research Scientist,2,2313,4,5,2,2
+1109,42,Research & Development,2,Medical,Male,Manager,1,17665,3,23,22,13
+1111,28,Research & Development,3,Medical,Male,Laboratory Technician,2,2596,3,1,1,0
+1113,50,Sales,4,Other,Male,Sales Executive,3,4728,3,5,0,0
+1114,33,Sales,3,Life Sciences,Female,Sales Executive,2,4302,3,4,3,0
+1115,34,Research & Development,4,Life Sciences,Male,Research Scientist,4,2979,3,6,0,0
+1116,48,Research & Development,4,Medical,Male,Manager,4,16885,4,27,5,2
+1117,45,Sales,4,Life Sciences,Female,Sales Executive,3,5593,3,15,15,4
+1118,52,Research & Development,4,Life Sciences,Male,Healthcare Representative,2,10445,3,18,8,4
+1119,38,Sales,4,Marketing,Male,Sales Executive,3,8740,3,9,8,2
+1120,29,Research & Development,4,Life Sciences,Female,Research Scientist,4,2514,4,11,7,1
+1121,28,Research & Development,3,Medical,Female,Manufacturing Director,2,7655,3,10,9,1
+1124,46,Sales,1,Marketing,Male,Manager,3,17465,3,23,12,4
+1125,38,Sales,2,Marketing,Male,Sales Executive,2,7351,3,10,1,0
+1126,43,Research & Development,3,Life Sciences,Female,Manufacturing Director,1,10820,3,18,8,0
+1127,39,Research & Development,3,Life Sciences,Male,Healthcare Representative,4,12169,3,21,18,11
+1128,40,Research & Development,3,Medical,Male,Research Director,3,19626,3,21,20,4
+1131,21,Research & Development,1,Technical Degree,Female,Research Scientist,2,2070,3,2,2,2
+1132,39,Research & Development,3,Life Sciences,Male,Laboratory Technician,2,6782,3,9,5,0
+1133,36,Research & Development,4,Life Sciences,Male,Manufacturing Director,4,7779,4,18,11,0
+1135,31,Sales,3,Life Sciences,Male,Sales Representative,4,2791,3,3,2,2
+1136,28,Research & Development,1,Life Sciences,Male,Research Scientist,2,3201,3,6,5,0
+1137,35,Sales,2,Marketing,Male,Sales Executive,4,4968,3,5,5,0
+1138,49,Sales,4,Technical Degree,Male,Sales Executive,2,13120,3,22,9,2
+1140,34,Research & Development,2,Life Sciences,Male,Manufacturing Director,3,4033,3,5,3,0
+1143,29,Research & Development,3,Life Sciences,Female,Research Scientist,2,3291,3,8,7,1
+1148,42,Research & Development,3,Medical,Male,Laboratory Technician,4,4272,3,16,1,0
+1150,29,Research & Development,1,Medical,Male,Manufacturing Director,4,5056,3,10,10,1
+1152,38,Human Resources,3,Human Resources,Male,Human Resources,3,2844,3,7,7,5
+1154,28,Research & Development,3,Life Sciences,Male,Research Scientist,3,2703,3,3,3,0
+1156,18,Research & Development,1,Medical,Male,Laboratory Technician,3,1904,3,0,0,0
+1157,33,Sales,4,Marketing,Female,Sales Executive,1,8224,3,6,5,0
+1158,41,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,4766,3,6,1,0
+1160,31,Research & Development,3,Medical,Male,Laboratory Technician,3,2610,3,2,2,2
+1161,37,Research & Development,2,Medical,Female,Healthcare Representative,4,5731,3,9,6,1
+1162,27,Research & Development,3,Life Sciences,Male,Research Scientist,3,2539,3,4,4,2
+1163,34,Sales,1,Life Sciences,Female,Sales Executive,3,5714,4,6,6,1
+1164,35,Human Resources,4,Technical Degree,Male,Human Resources,3,4323,3,6,5,1
+1165,29,Sales,1,Life Sciences,Female,Sales Executive,1,7336,3,11,11,3
+1166,40,Research & Development,4,Medical,Female,Research Director,3,13499,3,20,18,2
+1167,42,Sales,3,Life Sciences,Male,Sales Executive,1,13758,3,22,21,13
+1171,42,Sales,4,Marketing,Male,Sales Executive,1,5155,3,9,6,1
+1172,35,Research & Development,4,Medical,Male,Laboratory Technician,3,2258,3,10,8,1
+1173,24,Research & Development,3,Medical,Male,Laboratory Technician,2,3597,4,6,4,1
+1175,28,Research & Development,1,Life Sciences,Female,Laboratory Technician,4,2515,3,1,1,0
+1177,26,Research & Development,4,Medical,Male,Laboratory Technician,4,4420,4,8,8,0
+1179,30,Sales,3,Marketing,Male,Sales Executive,3,6578,3,10,10,1
+1180,40,Research & Development,2,Medical,Female,Research Scientist,4,4422,3,16,1,0
+1182,35,Research & Development,3,Life Sciences,Male,Manufacturing Director,2,10274,3,15,7,6
+1184,34,Research & Development,3,Medical,Male,Healthcare Representative,1,5343,4,14,13,4
+1185,35,Research & Development,4,Other,Male,Laboratory Technician,4,2376,3,2,2,2
+1188,43,Sales,3,Marketing,Female,Sales Executive,3,5346,3,7,4,1
+1190,32,Sales,1,Life Sciences,Female,Sales Representative,1,2827,3,1,1,0
+1191,56,Research & Development,4,Technical Degree,Female,Manager,1,19943,3,28,5,4
+1192,29,Research & Development,1,Medical,Female,Laboratory Technician,4,3131,3,10,10,0
+1193,19,Research & Development,2,Life Sciences,Male,Research Scientist,1,2552,4,1,1,0
+1195,45,Research & Development,3,Medical,Female,Research Scientist,3,4477,3,7,3,0
+1196,37,Research & Development,3,Life Sciences,Female,Manufacturing Director,4,6474,3,14,14,3
+1198,20,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,3033,3,2,2,1
+1200,44,Research & Development,4,Life Sciences,Male,Research Scientist,3,2936,3,6,6,0
+1201,53,Research & Development,2,Medical,Female,Manager,3,18606,3,26,7,4
+1202,29,Research & Development,1,Life Sciences,Female,Research Scientist,4,2168,3,6,5,1
+1203,22,Research & Development,4,Life Sciences,Male,Research Scientist,4,2853,3,1,0,0
+1204,46,Sales,3,Marketing,Female,Manager,1,17048,4,28,26,15
+1206,44,Research & Development,3,Life Sciences,Male,Research Scientist,3,2290,3,6,0,0
+1207,33,Human Resources,3,Human Resources,Male,Human Resources,3,3600,3,5,5,1
+1210,41,Research & Development,2,Life Sciences,Male,Research Scientist,1,2107,3,5,1,0
+1211,30,Sales,4,Life Sciences,Male,Sales Executive,1,4115,3,8,4,0
+1212,40,Sales,4,Medical,Male,Sales Executive,2,4327,3,5,0,0
+1215,50,Research & Development,3,Medical,Female,Manager,1,17856,4,32,2,2
+1216,28,Research & Development,4,Medical,Male,Laboratory Technician,1,3196,3,6,6,3
+1217,46,Research & Development,2,Life Sciences,Male,Research Director,2,19081,3,25,4,0
+1218,35,Sales,4,Life Sciences,Male,Sales Executive,1,8966,3,15,7,1
+1219,24,Research & Development,2,Life Sciences,Female,Laboratory Technician,2,2210,3,1,1,0
+1220,33,Sales,3,Medical,Female,Sales Executive,3,4539,3,10,10,0
+1221,36,Research & Development,4,Life Sciences,Male,Laboratory Technician,3,2741,3,7,7,1
+1224,30,Research & Development,4,Life Sciences,Male,Laboratory Technician,3,3491,3,10,10,8
+1225,44,Research & Development,4,Other,Male,Research Scientist,4,4541,4,20,20,13
+1226,20,Sales,3,Marketing,Male,Sales Representative,4,2678,3,2,2,2
+1228,46,Research & Development,4,Technical Degree,Male,Manufacturing Director,4,7379,3,12,6,1
+1231,42,Human Resources,5,Medical,Male,Human Resources,1,6272,3,10,4,0
+1233,60,Sales,4,Marketing,Male,Sales Executive,4,5220,3,12,11,1
+1234,32,Research & Development,3,Other,Female,Laboratory Technician,2,2743,4,2,2,2
+1235,32,Research & Development,2,Life Sciences,Female,Research Scientist,3,4998,3,10,8,0
+1237,36,Research & Development,3,Technical Degree,Female,Manufacturing Director,1,10252,4,17,7,7
+1238,33,Research & Development,3,Medical,Male,Research Scientist,4,2781,3,15,14,4
+1239,40,Sales,3,Technical Degree,Female,Sales Executive,2,6852,3,7,5,1
+1240,25,Sales,4,Life Sciences,Male,Sales Executive,4,4950,3,5,4,1
+1241,30,Research & Development,3,Medical,Male,Research Scientist,2,3579,4,12,11,5
+1242,42,Research & Development,5,Medical,Female,Research Director,1,13191,3,20,1,0
+1243,35,Sales,2,Marketing,Female,Sales Executive,4,10377,3,16,13,4
+1244,27,Research & Development,3,Life Sciences,Male,Research Scientist,1,2235,3,9,9,6
+1245,54,Research & Development,4,Life Sciences,Female,Manufacturing Director,3,10502,3,33,5,1
+1246,44,Research & Development,1,Life Sciences,Female,Research Scientist,4,2011,3,10,10,7
+1248,19,Research & Development,3,Medical,Female,Research Scientist,2,1859,4,1,1,0
+1249,29,Research & Development,3,Life Sciences,Female,Research Scientist,4,3760,3,3,3,1
+1250,54,Research & Development,3,Life Sciences,Male,Research Director,4,17779,3,36,10,0
+1251,31,Research & Development,2,Medical,Male,Healthcare Representative,1,6833,3,6,6,0
+1252,31,Research & Development,3,Medical,Female,Healthcare Representative,1,6812,3,10,10,1
+1254,59,Sales,3,Life Sciences,Female,Sales Executive,4,5171,3,13,6,0
+1255,43,Research & Development,3,Life Sciences,Male,Research Director,4,19740,3,25,8,0
+1256,49,Research & Development,2,Medical,Male,Manager,3,18711,3,23,1,0
+1257,36,Research & Development,3,Technical Degree,Male,Research Scientist,2,3692,3,12,11,0
+1258,48,Research & Development,2,Technical Degree,Male,Laboratory Technician,2,2559,3,7,1,0
+1259,27,Research & Development,2,Life Sciences,Male,Research Scientist,3,2517,3,5,5,0
+1260,29,Research & Development,3,Life Sciences,Male,Healthcare Representative,4,6623,3,6,6,1
+1263,48,Research & Development,3,Life Sciences,Male,Research Director,4,18265,3,25,1,0
+1264,29,Research & Development,3,Life Sciences,Female,Research Director,4,16124,3,9,7,1
+1265,34,Research & Development,3,Technical Degree,Female,Research Scientist,3,2585,3,2,1,0
+1267,44,Sales,3,Marketing,Male,Manager,2,18213,3,26,22,3
+1268,33,Sales,5,Marketing,Male,Sales Executive,3,8380,3,10,9,0
+1269,19,Research & Development,3,Life Sciences,Female,Research Scientist,4,2994,3,1,1,0
+1270,23,Research & Development,2,Life Sciences,Male,Research Scientist,3,1223,4,1,1,0
+1273,25,Sales,1,Life Sciences,Male,Sales Representative,4,1118,3,1,1,1
+1275,26,Research & Development,2,Life Sciences,Male,Research Scientist,4,2875,4,8,8,2
+1277,45,Sales,3,Marketing,Female,Manager,2,18824,3,26,24,1
+1278,55,Research & Development,1,Medical,Male,Healthcare Representative,2,13577,3,34,33,15
+1279,21,Research & Development,2,Life Sciences,Female,Laboratory Technician,3,2625,4,2,2,2
+1280,46,Sales,2,Marketing,Female,Manager,2,18789,3,26,11,0
+1281,34,Sales,3,Marketing,Female,Sales Executive,1,4538,3,4,3,0
+1282,51,Sales,3,Life Sciences,Male,Manager,2,19847,4,31,29,11
+1283,59,Research & Development,4,Medical,Male,Manufacturing Director,4,10512,3,25,9,5
+1285,34,Research & Development,3,Medical,Female,Laboratory Technician,2,4444,3,15,11,5
+1286,28,Research & Development,4,Medical,Male,Laboratory Technician,3,2154,3,5,4,0
+1288,44,Research & Development,2,Life Sciences,Male,Manager,1,19190,3,26,25,14
+1289,34,Human Resources,3,Life Sciences,Male,Human Resources,2,4490,3,14,10,1
+1291,35,Research & Development,1,Life Sciences,Male,Research Scientist,3,3506,3,4,3,2
+1292,42,Research & Development,4,Medical,Female,Research Scientist,2,2372,3,18,1,0
+1293,43,Sales,4,Marketing,Female,Sales Executive,4,10231,3,23,21,15
+1294,36,Research & Development,4,Life Sciences,Female,Manufacturing Director,2,5410,3,18,16,5
+1295,44,Research & Development,3,Medical,Female,Healthcare Representative,4,7978,3,10,10,0
+1296,28,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,3867,3,2,2,2
+1297,51,Research & Development,2,Medical,Female,Laboratory Technician,3,2838,3,8,7,7
+1298,30,Research & Development,2,Medical,Female,Manufacturing Director,3,4695,3,10,8,1
+1299,29,Research & Development,3,Technical Degree,Female,Laboratory Technician,3,3339,3,10,7,7
+1301,28,Research & Development,3,Technical Degree,Male,Research Scientist,1,2080,3,5,3,1
+1303,25,Research & Development,3,Medical,Female,Research Scientist,2,2096,3,2,2,2
+1304,32,Sales,3,Medical,Male,Sales Executive,4,6209,3,10,10,0
+1306,45,Research & Development,3,Medical,Female,Manager,2,18061,4,22,0,0
+1307,39,Research & Development,4,Medical,Female,Manager,2,17123,3,21,19,15
+1308,58,Research & Development,4,Life Sciences,Male,Research Scientist,3,2372,3,2,2,2
+1309,32,Research & Development,2,Life Sciences,Male,Laboratory Technician,3,4883,3,10,10,1
+1310,39,Research & Development,3,Medical,Male,Research Scientist,1,3904,3,6,5,0
+1311,30,Research & Development,3,Technical Degree,Female,Laboratory Technician,4,4627,3,10,9,6
+1312,36,Research & Development,4,Technical Degree,Female,Healthcare Representative,3,7094,3,10,7,1
+1314,46,Human Resources,2,Life Sciences,Female,Human Resources,1,3423,3,10,7,5
+1315,28,Research & Development,3,Life Sciences,Female,Laboratory Technician,4,6674,3,10,9,7
+1317,50,Research & Development,3,Life Sciences,Female,Research Director,1,16880,3,25,3,1
+1318,40,Sales,4,Marketing,Male,Sales Executive,2,9094,3,9,5,1
+1319,52,Sales,3,Life Sciences,Male,Sales Executive,2,8446,3,10,8,7
+1321,30,Research & Development,4,Medical,Female,Manager,1,11916,4,9,9,0
+1322,39,Research & Development,2,Life Sciences,Male,Manufacturing Director,3,4534,3,9,8,1
+1324,31,Sales,4,Life Sciences,Female,Sales Executive,3,9852,3,10,10,9
+1329,41,Sales,2,Medical,Male,Sales Executive,2,6151,3,19,19,11
+1331,31,Sales,3,Life Sciences,Female,Sales Representative,2,2302,3,3,3,2
+1333,44,Research & Development,3,Life Sciences,Male,Laboratory Technician,1,2362,3,10,3,1
+1334,42,Research & Development,1,Life Sciences,Male,Manager,3,17861,3,21,20,2
+1336,55,Research & Development,2,Medical,Female,Manager,3,19187,3,23,19,9
+1338,56,Human Resources,4,Life Sciences,Male,Manager,2,19717,3,36,7,7
+1340,40,Research & Development,2,Life Sciences,Male,Research Scientist,3,3544,3,6,4,0
+1344,34,Research & Development,3,Life Sciences,Male,Healthcare Representative,4,8500,3,10,9,1
+1346,40,Research & Development,3,Life Sciences,Male,Research Scientist,4,4661,3,9,9,8
+1349,41,Sales,3,Marketing,Female,Sales Executive,1,4103,3,10,9,1
+1350,35,Research & Development,4,Life Sciences,Male,Research Scientist,3,4249,3,9,9,1
+1352,51,Human Resources,3,Life Sciences,Male,Manager,2,14026,3,33,33,0
+1355,38,Sales,2,Life Sciences,Female,Sales Executive,1,6893,3,11,7,1
+1356,34,Sales,2,Medical,Female,Sales Executive,1,6125,3,10,10,9
+1358,25,Research & Development,1,Medical,Male,Laboratory Technician,4,3669,3,7,3,1
+1360,58,Research & Development,4,Medical,Female,Manufacturing Director,1,10008,3,31,10,5
+1361,40,Research & Development,4,Life Sciences,Male,Laboratory Technician,2,2387,4,7,4,0
+1362,36,Sales,3,Marketing,Female,Sales Executive,1,4639,3,17,15,6
+1363,48,Research & Development,3,Life Sciences,Male,Manufacturing Director,4,7898,3,11,10,0
+1364,27,Sales,3,Medical,Female,Sales Representative,4,2534,3,5,1,0
+1367,51,Research & Development,2,Technical Degree,Female,Manufacturing Director,2,13142,3,29,5,0
+1368,18,Research & Development,3,Life Sciences,Female,Laboratory Technician,4,1611,3,0,0,0
+1369,35,Research & Development,3,Medical,Female,Laboratory Technician,4,5363,3,10,9,0
+1371,27,Sales,1,Life Sciences,Male,Sales Executive,4,5071,4,8,6,0
+1372,55,Sales,4,Marketing,Male,Sales Executive,3,13695,3,24,19,3
+1373,56,Research & Development,3,Life Sciences,Male,Manufacturing Director,2,13402,3,33,19,15
+1374,34,Research & Development,1,Technical Degree,Female,Research Scientist,3,2029,4,5,5,0
+1375,40,Research & Development,1,Medical,Female,Healthcare Representative,3,6377,4,15,12,11
+1377,34,Research & Development,3,Medical,Male,Laboratory Technician,3,5429,3,10,8,7
+1379,31,Sales,3,Life Sciences,Female,Sales Representative,4,2785,3,3,1,0
+1380,35,Sales,4,Marketing,Female,Sales Executive,3,4614,3,5,4,3
+1382,38,Research & Development,3,Life Sciences,Male,Research Scientist,3,2610,3,4,4,0
+1383,34,Research & Development,4,Technical Degree,Female,Healthcare Representative,4,6687,3,14,14,4
+1387,28,Sales,3,Life Sciences,Male,Sales Executive,1,4724,3,5,5,0
+1389,31,Research & Development,4,Medical,Male,Manufacturing Director,3,6179,3,10,10,6
+1390,39,Sales,4,Life Sciences,Male,Sales Executive,4,6120,3,8,5,1
+1391,51,Sales,3,Marketing,Male,Sales Executive,2,10596,3,14,4,3
+1392,41,Research & Development,3,Life Sciences,Female,Research Scientist,4,5467,3,12,6,3
+1394,37,Research & Development,1,Life Sciences,Male,Research Scientist,3,2996,3,8,6,1
+1395,33,Sales,1,Life Sciences,Male,Sales Executive,4,9998,3,8,5,1
+1396,32,Sales,1,Marketing,Male,Sales Executive,2,4078,3,4,3,1
+1397,39,Research & Development,2,Life Sciences,Male,Healthcare Representative,3,10920,4,13,6,0
+1399,25,Sales,1,Life Sciences,Male,Sales Executive,3,6232,3,6,3,1
+1401,52,Research & Development,2,Medical,Female,Manufacturing Director,3,13247,3,24,5,0
+1402,43,Research & Development,3,Medical,Female,Research Scientist,3,4081,3,20,20,1
+1403,27,Sales,3,Marketing,Female,Sales Executive,4,5769,3,6,6,4
+1405,27,Research & Development,4,Life Sciences,Female,Research Scientist,3,2394,3,8,8,7
+1407,26,Research & Development,1,Medical,Male,Research Scientist,4,3904,3,5,4,1
+1408,42,Human Resources,3,Human Resources,Female,Manager,1,16799,3,21,20,0
+1409,52,Research & Development,4,Other,Female,Laboratory Technician,1,2950,3,12,5,0
+1411,37,Research & Development,3,Medical,Female,Laboratory Technician,3,3629,3,8,3,0
+1412,35,Research & Development,2,Life Sciences,Male,Manufacturing Director,4,9362,3,10,2,2
+1415,25,Research & Development,3,Technical Degree,Male,Laboratory Technician,4,3229,3,7,3,0
+1417,26,Research & Development,3,Other,Male,Laboratory Technician,1,3578,3,8,7,0
+1419,29,Human Resources,3,Other,Male,Human Resources,1,7988,3,10,10,0
+1420,49,Research & Development,2,Life Sciences,Male,Laboratory Technician,1,4284,4,20,4,1
+1421,29,Research & Development,1,Other,Female,Healthcare Representative,4,7553,3,9,8,7
+1422,54,Research & Development,3,Medical,Female,Research Director,4,17328,3,29,20,12
+1423,58,Research & Development,3,Medical,Female,Research Director,1,19701,4,32,9,1
+1424,55,Research & Development,4,Medical,Male,Research Director,4,14732,3,31,7,0
+1425,36,Sales,4,Marketing,Female,Sales Executive,2,9278,3,15,5,0
+1427,31,Sales,4,Life Sciences,Female,Sales Representative,3,1359,3,1,1,0
+1428,30,Sales,4,Marketing,Female,Sales Executive,1,4779,3,8,3,0
+1430,31,Research & Development,5,Life Sciences,Female,Research Director,2,16422,3,9,3,1
+1431,34,Research & Development,4,Other,Male,Research Scientist,1,2996,3,10,4,1
+1433,31,Research & Development,3,Life Sciences,Female,Research Scientist,2,1261,3,1,1,0
+1434,27,Research & Development,1,Life Sciences,Male,Laboratory Technician,1,2099,3,6,5,1
+1435,36,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,5810,3,10,10,1
+1436,36,Sales,4,Marketing,Female,Sales Executive,1,5647,3,11,3,0
+1438,47,Research & Development,3,Technical Degree,Male,Research Scientist,4,3420,3,17,6,1
+1439,25,Sales,2,Life Sciences,Male,Sales Representative,1,4400,3,6,3,2
+1440,37,Research & Development,2,Technical Degree,Male,Laboratory Technician,3,3500,3,7,6,1
+1441,56,Research & Development,2,Life Sciences,Female,Research Scientist,1,2066,4,5,3,1
+1443,47,Research & Development,4,Medical,Female,Research Director,3,17169,3,26,20,5
+1445,24,Sales,1,Medical,Female,Sales Executive,3,4162,3,5,5,0
+1446,32,Sales,5,Marketing,Male,Sales Executive,4,9204,3,7,4,0
+1447,34,Research & Development,3,Life Sciences,Female,Laboratory Technician,2,3294,3,7,5,0
+1448,41,Research & Development,5,Medical,Male,Research Scientist,3,2127,3,7,4,0
+1449,40,Research & Development,4,Other,Male,Laboratory Technician,3,3975,3,11,8,0
+1453,31,Sales,2,Life Sciences,Male,Sales Executive,4,10793,3,13,13,9
+1457,46,Sales,3,Marketing,Male,Sales Executive,4,10096,3,28,7,4
+1458,39,Research & Development,3,Life Sciences,Female,Laboratory Technician,1,3646,4,11,1,0
+1459,31,Research & Development,5,Life Sciences,Female,Manufacturing Director,2,7446,3,10,10,4
+1460,45,Research & Development,3,Medical,Male,Healthcare Representative,1,10851,3,24,7,0
+1461,31,Human Resources,2,Medical,Female,Human Resources,2,2109,3,8,3,0
+1464,31,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,3722,3,7,2,2
+1465,45,Research & Development,3,Technical Degree,Male,Manufacturing Director,4,9380,3,10,3,1
+1466,48,Sales,3,Marketing,Male,Sales Executive,1,5486,3,15,2,2
+1467,34,Human Resources,4,Technical Degree,Female,Human Resources,3,2742,3,2,2,2
+1468,40,Research & Development,1,Medical,Male,Research Director,2,13757,3,16,9,4
+1469,28,Sales,3,Medical,Male,Sales Executive,1,8463,3,6,5,1
+1471,44,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,3162,3,7,5,0
+1472,53,Research & Development,3,Medical,Male,Research Director,2,16598,3,35,9,8
+1473,49,Research & Development,4,Technical Degree,Male,Healthcare Representative,3,6651,3,20,3,1
+1474,40,Research & Development,3,Medical,Male,Research Scientist,3,2345,3,8,3,1
+1475,44,Research & Development,3,Life Sciences,Male,Research Scientist,2,3420,3,6,5,1
+1477,33,Sales,3,Medical,Male,Sales Executive,1,4373,3,5,4,0
+1478,34,Sales,3,Other,Male,Sales Executive,1,4759,3,15,13,3
+1479,30,Sales,1,Life Sciences,Male,Sales Executive,3,5301,3,4,2,2
+1480,42,Research & Development,2,Medical,Female,Laboratory Technician,4,3673,3,12,12,5
+1481,44,Sales,5,Marketing,Female,Sales Executive,3,4768,3,11,1,0
+1482,30,Research & Development,3,Technical Degree,Male,Research Scientist,3,1274,3,1,1,0
+1483,57,Research & Development,2,Life Sciences,Male,Research Scientist,3,4900,4,13,12,2
+1484,49,Research & Development,4,Life Sciences,Male,Healthcare Representative,2,10466,3,29,8,0
+1485,34,Research & Development,3,Medical,Male,Research Director,1,17007,3,16,14,6
+1486,28,Sales,3,Technical Degree,Male,Sales Representative,3,2909,3,5,3,1
+1487,29,Sales,3,Technical Degree,Female,Sales Executive,2,5765,3,7,5,0
+1489,34,Sales,4,Medical,Female,Sales Executive,2,4599,4,16,15,10
+1492,35,Sales,1,Life Sciences,Male,Sales Representative,3,2404,3,1,1,0
+1494,24,Research & Development,3,Medical,Male,Laboratory Technician,1,3172,3,4,0,0
+1495,24,Sales,2,Life Sciences,Female,Sales Representative,2,2033,3,1,1,0
+1496,44,Research & Development,1,Medical,Male,Manufacturing Director,3,10209,3,16,2,2
+1497,29,Sales,3,Life Sciences,Male,Sales Executive,3,8620,3,10,10,0
+1499,30,Human Resources,3,Life Sciences,Male,Human Resources,3,2064,4,6,5,1
+1501,55,Research & Development,4,Life Sciences,Male,Healthcare Representative,3,4035,3,4,3,1
+1502,33,Research & Development,4,Medical,Female,Laboratory Technician,2,3838,3,8,5,0
+1503,47,Sales,3,Medical,Female,Sales Executive,3,4591,3,11,5,1
+1504,28,Research & Development,2,Medical,Male,Laboratory Technician,1,2561,3,8,0,0
+1506,28,Research & Development,3,Life Sciences,Male,Research Scientist,3,1563,3,1,1,0
+1507,28,Sales,3,Life Sciences,Male,Sales Executive,1,4898,3,5,4,1
+1509,49,Research & Development,2,Medical,Female,Laboratory Technician,1,4789,4,10,3,1
+1513,29,Research & Development,1,Life Sciences,Female,Laboratory Technician,2,3180,3,4,3,0
+1514,28,Research & Development,1,Life Sciences,Male,Manufacturing Director,2,6549,3,8,8,1
+1515,33,Research & Development,5,Life Sciences,Male,Healthcare Representative,3,6388,3,14,0,0
+1516,32,Research & Development,3,Medical,Male,Manager,4,11244,4,10,5,0
+1520,54,Research & Development,4,Medical,Female,Manager,4,16032,4,26,14,1
+1522,29,Research & Development,4,Technical Degree,Male,Research Scientist,1,2362,3,11,9,0
+1523,44,Research & Development,3,Life Sciences,Male,Research Director,1,16328,3,24,20,14
+1525,39,Research & Development,3,Life Sciences,Female,Manufacturing Director,2,8376,3,9,2,2
+1527,46,Sales,3,Life Sciences,Female,Manager,2,16606,3,23,13,5
+1529,35,Research & Development,3,Life Sciences,Female,Healthcare Representative,2,8606,3,11,11,3
+1533,23,Research & Development,1,Life Sciences,Male,Laboratory Technician,3,2272,3,5,4,1
+1534,40,Research & Development,4,Life Sciences,Male,Laboratory Technician,1,2018,3,15,5,1
+1535,34,Sales,3,Technical Degree,Male,Sales Executive,3,7083,3,10,10,8
+1537,31,Research & Development,3,Life Sciences,Female,Research Scientist,3,4084,3,7,7,7
+1539,50,Research & Development,5,Medical,Male,Research Director,4,14411,3,32,32,13
+1541,34,Sales,2,Technical Degree,Male,Sales Representative,3,2308,4,12,11,5
+1542,42,Research & Development,3,Medical,Male,Laboratory Technician,2,4841,3,4,1,0
+1543,37,Research & Development,3,Medical,Male,Research Scientist,4,4285,3,10,10,3
+1544,29,Research & Development,1,Other,Female,Healthcare Representative,1,9715,3,9,7,0
+1545,33,Research & Development,3,Life Sciences,Male,Manufacturing Director,2,4320,3,5,5,0
+1546,45,Research & Development,3,Technical Degree,Male,Research Scientist,4,2132,4,8,5,0
+1547,42,Research & Development,3,Life Sciences,Male,Healthcare Representative,4,10124,3,24,20,13
+1548,40,Sales,2,Medical,Male,Sales Executive,1,5473,3,9,8,7
+1549,33,Research & Development,4,Life Sciences,Male,Laboratory Technician,3,5207,3,15,15,5
+1550,40,Human Resources,2,Medical,Male,Manager,4,16437,4,21,21,7
+1551,24,Research & Development,2,Technical Degree,Male,Laboratory Technician,1,2296,3,2,1,0
+1552,40,Research & Development,2,Life Sciences,Male,Healthcare Representative,4,4069,3,8,2,2
+1553,45,Research & Development,4,Technical Degree,Male,Healthcare Representative,2,7441,3,10,10,7
+1554,35,Sales,4,Life Sciences,Female,Sales Representative,3,2430,4,6,5,4
+1555,32,Research & Development,2,Life Sciences,Female,Research Scientist,2,5878,3,12,7,2
+1556,36,Sales,4,Life Sciences,Male,Sales Representative,4,2644,4,7,3,1
+1557,48,Sales,4,Life Sciences,Female,Sales Executive,3,6439,3,18,8,7
+1558,29,Research & Development,3,Life Sciences,Male,Research Scientist,3,2451,3,5,1,0
+1560,33,Sales,4,Life Sciences,Male,Sales Executive,1,6392,3,8,2,2
+1562,30,Sales,3,Life Sciences,Male,Sales Executive,1,9714,3,10,10,6
+1563,38,Human Resources,4,Human Resources,Male,Human Resources,3,6077,3,10,6,1
+1564,35,Research & Development,3,Medical,Male,Laboratory Technician,1,2450,3,3,3,1
+1568,30,Sales,4,Technical Degree,Male,Sales Executive,2,9250,3,9,4,1
+1569,35,Research & Development,3,Life Sciences,Female,Laboratory Technician,1,2074,3,1,1,0
+1572,53,Research & Development,5,Technical Degree,Female,Manufacturing Director,4,10169,3,34,33,1
+1573,38,Research & Development,3,Medical,Male,Manufacturing Director,2,4855,3,7,5,1
+1574,32,Research & Development,4,Technical Degree,Male,Research Scientist,1,4087,3,9,6,1
+1576,48,Research & Development,4,Other,Female,Research Scientist,1,2367,3,10,8,7
+1577,34,Research & Development,4,Medical,Male,Research Scientist,4,2972,3,1,1,0
+1578,55,Sales,5,Marketing,Male,Manager,4,19586,4,36,36,2
+1580,34,Research & Development,4,Life Sciences,Male,Research Scientist,4,5484,3,9,2,2
+1581,26,Research & Development,3,Life Sciences,Female,Research Scientist,4,2061,4,1,1,0
+1582,38,Sales,3,Life Sciences,Male,Sales Executive,2,9924,3,10,9,7
+1583,38,Sales,3,Life Sciences,Female,Sales Executive,2,4198,3,8,3,1
+1585,36,Sales,4,Life Sciences,Female,Sales Executive,3,6815,3,15,1,0
+1586,29,Research & Development,1,Medical,Male,Laboratory Technician,1,4723,3,10,10,1
+1587,35,Research & Development,4,Medical,Female,Healthcare Representative,3,6142,3,10,5,0
+1588,39,Sales,3,Medical,Male,Sales Executive,3,8237,3,11,7,7
+1590,29,Research & Development,1,Life Sciences,Male,Healthcare Representative,4,8853,3,6,6,1
+1591,50,Sales,3,Marketing,Male,Manager,3,19331,3,27,1,0
+1592,23,Research & Development,3,Technical Degree,Male,Research Scientist,3,2073,3,4,2,2
+1594,36,Research & Development,4,Life Sciences,Male,Laboratory Technician,1,5562,3,9,3,0
+1595,42,Research & Development,2,Other,Male,Manager,4,19613,4,24,1,0
+1596,35,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,3407,3,10,10,6
+1597,34,Research & Development,4,Technical Degree,Male,Healthcare Representative,3,5063,3,8,8,7
+1598,40,Sales,2,Life Sciences,Female,Sales Executive,1,4639,3,5,5,1
+1599,43,Research & Development,3,Technical Degree,Male,Laboratory Technician,2,4876,3,8,6,0
+1601,35,Research & Development,2,Life Sciences,Male,Laboratory Technician,4,2690,3,1,1,0
+1602,46,Sales,4,Life Sciences,Male,Manager,1,17567,3,27,26,0
+1604,28,Research & Development,3,Medical,Male,Laboratory Technician,2,2408,3,1,1,0
+1605,22,Research & Development,2,Other,Female,Research Scientist,3,2814,3,4,4,1
+1606,50,Research & Development,5,Medical,Male,Healthcare Representative,3,11245,3,32,30,12
+1607,32,Research & Development,4,Other,Female,Research Scientist,4,3312,3,6,3,0
+1608,44,Research & Development,3,Medical,Female,Research Director,4,19049,3,23,22,1
+1609,30,Research & Development,3,Medical,Male,Research Scientist,2,2141,3,6,6,1
+1611,45,Research & Development,5,Medical,Female,Laboratory Technician,1,5769,3,10,10,1
+1612,45,Sales,3,Marketing,Male,Sales Executive,1,4385,3,10,10,4
+1613,31,Sales,4,Other,Male,Sales Executive,1,5332,3,10,5,0
+1614,36,Research & Development,4,Life Sciences,Female,Manufacturing Director,3,4663,3,7,3,1
+1615,34,Research & Development,4,Life Sciences,Male,Manufacturing Director,4,4724,3,9,9,7
+1617,49,Research & Development,4,Life Sciences,Female,Laboratory Technician,1,3211,3,10,9,1
+1618,39,Research & Development,5,Medical,Male,Manufacturing Director,1,5377,3,10,7,7
+1619,27,Research & Development,3,Other,Male,Laboratory Technician,1,4066,3,7,7,0
+1621,35,Research & Development,5,Life Sciences,Male,Research Scientist,1,5208,3,16,16,1
+1622,28,Research & Development,3,Medical,Female,Manufacturing Director,1,4877,4,6,5,0
+1623,21,Research & Development,1,Medical,Male,Research Scientist,4,3117,3,3,2,2
+1624,18,Sales,2,Medical,Female,Sales Representative,4,1569,3,0,0,0
+1625,47,Human Resources,4,Life Sciences,Female,Manager,3,19658,3,27,5,1
+1627,39,Research & Development,2,Medical,Male,Laboratory Technician,3,3069,3,11,10,0
+1628,40,Research & Development,3,Life Sciences,Female,Manufacturing Director,3,10435,3,18,18,14
+1630,35,Research & Development,4,Life Sciences,Female,Healthcare Representative,3,4148,3,15,14,2
+1631,37,Research & Development,3,Life Sciences,Male,Manufacturing Director,3,5768,3,9,4,0
+1633,39,Research & Development,3,Medical,Female,Manufacturing Director,3,5042,3,10,9,3
+1635,45,Research & Development,2,Other,Female,Manufacturing Director,4,5770,3,10,10,3
+1638,38,Research & Development,2,Medical,Female,Manufacturing Director,3,7756,3,10,5,0
+1639,35,Sales,3,Medical,Male,Sales Executive,1,10306,3,15,13,6
+1640,37,Research & Development,3,Medical,Female,Research Scientist,2,3936,3,8,8,7
+1641,40,Research & Development,3,Life Sciences,Female,Manufacturing Director,4,7945,3,18,4,3
+1642,44,Human Resources,5,Human Resources,Male,Human Resources,4,5743,3,14,10,0
+1644,48,Research & Development,5,Medical,Male,Manager,4,15202,4,23,2,2
+1645,35,Sales,2,Medical,Male,Sales Executive,4,5440,3,7,2,2
+1646,24,Research & Development,1,Technical Degree,Female,Research Scientist,4,3760,3,6,6,1
+1647,27,Research & Development,3,Medical,Female,Research Scientist,3,3517,3,5,3,0
+1648,27,Research & Development,3,Medical,Male,Research Scientist,4,2580,3,6,4,1
+1649,40,Research & Development,3,Life Sciences,Male,Laboratory Technician,1,2166,3,10,4,0
+1650,29,Sales,3,Medical,Male,Sales Executive,3,5869,3,8,5,1
+1651,36,Research & Development,4,Life Sciences,Female,Healthcare Representative,1,8008,3,9,3,0
+1653,25,Research & Development,1,Life Sciences,Male,Manufacturing Director,3,5206,3,7,7,0
+1654,39,Research & Development,3,Medical,Male,Manufacturing Director,2,5295,4,7,5,1
+1655,49,Research & Development,4,Other,Female,Research Director,2,16413,3,27,4,1
+1656,50,Research & Development,5,Life Sciences,Female,Research Director,1,13269,3,19,14,1
+1657,20,Sales,3,Medical,Female,Sales Representative,3,2783,3,2,2,2
+1658,34,Research & Development,3,Life Sciences,Female,Research Scientist,2,5433,3,11,11,7
+1659,36,Research & Development,3,Life Sciences,Male,Laboratory Technician,2,2013,3,15,4,1
+1661,49,Research & Development,1,Life Sciences,Female,Healthcare Representative,3,13966,3,30,15,2
+1662,36,Research & Development,4,Medical,Female,Manufacturing Director,3,4374,3,4,3,1
+1664,36,Research & Development,2,Life Sciences,Male,Healthcare Representative,1,6842,4,13,5,0
+1665,54,Research & Development,5,Medical,Female,Manager,3,17426,4,36,10,4
+1666,43,Research & Development,2,Life Sciences,Male,Research Director,3,17603,4,14,14,6
+1667,35,Sales,4,Other,Male,Sales Executive,4,4581,4,13,11,6
+1668,38,Research & Development,3,Life Sciences,Male,Research Scientist,4,4735,3,19,13,2
+1669,29,Sales,3,Medical,Male,Sales Executive,2,4187,3,10,10,0
+1670,33,Sales,4,Medical,Male,Sales Executive,4,5505,3,6,6,0
+1671,32,Research & Development,3,Medical,Male,Research Scientist,2,5470,3,10,9,1
+1673,31,Sales,4,Life Sciences,Female,Sales Executive,4,5476,3,10,10,0
+1674,49,Research & Development,3,Medical,Female,Laboratory Technician,1,2587,3,17,2,2
+1675,38,Research & Development,3,Medical,Female,Laboratory Technician,2,2440,4,4,4,3
+1676,47,Sales,4,Life Sciences,Female,Manager,2,15972,3,29,3,1
+1677,49,Research & Development,3,Life Sciences,Male,Manager,3,15379,3,23,8,0
+1678,41,Sales,2,Life Sciences,Male,Sales Executive,3,7082,3,21,2,0
+1680,20,Sales,1,Life Sciences,Male,Sales Representative,1,2728,3,2,2,0
+1681,33,Sales,3,Life Sciences,Female,Sales Executive,4,5368,4,7,6,1
+1682,36,Research & Development,4,Life Sciences,Male,Healthcare Representative,3,5347,3,10,3,0
+1683,44,Human Resources,3,Life Sciences,Female,Human Resources,4,3195,3,8,2,2
+1684,23,Research & Development,1,Medical,Male,Laboratory Technician,3,3989,3,5,5,1
+1687,38,Research & Development,2,Medical,Female,Laboratory Technician,3,3306,3,7,0,0
+1689,53,Research & Development,4,Medical,Male,Healthcare Representative,4,7005,3,11,4,1
+1691,48,Sales,2,Medical,Female,Sales Representative,3,2655,3,19,9,7
+1692,32,Research & Development,4,Life Sciences,Male,Laboratory Technician,2,1393,3,1,1,0
+1693,26,Research & Development,3,Medical,Male,Laboratory Technician,4,2570,4,7,7,5
+1694,55,Research & Development,3,Technical Degree,Male,Research Scientist,2,3537,3,8,4,1
+1696,34,Research & Development,2,Medical,Male,Laboratory Technician,4,3986,3,15,15,4
+1697,60,Research & Development,4,Medical,Male,Healthcare Representative,4,10883,4,19,1,0
+1698,33,Research & Development,3,Medical,Male,Laboratory Technician,2,2028,3,14,14,2
+1700,37,Sales,4,Medical,Male,Sales Executive,4,9525,3,6,6,1
+1701,34,Research & Development,3,Life Sciences,Female,Research Scientist,4,2929,3,10,10,8
+1702,23,Sales,3,Life Sciences,Male,Sales Representative,4,2275,4,3,3,0
+1703,44,Research & Development,3,Life Sciences,Female,Healthcare Representative,4,7879,3,9,8,6
+1704,35,Research & Development,4,Medical,Male,Research Scientist,4,4930,3,6,5,1
+1706,43,Sales,3,Medical,Male,Sales Executive,4,7847,3,10,10,8
+1707,24,Research & Development,3,Medical,Male,Research Scientist,3,4401,3,5,5,0
+1708,41,Sales,3,Marketing,Male,Sales Executive,3,9241,3,10,10,8
+1709,29,Research & Development,4,Medical,Female,Laboratory Technician,3,2974,3,9,5,1
+1710,36,Sales,4,Life Sciences,Female,Sales Representative,4,4502,3,17,13,6
+1712,45,Research & Development,1,Life Sciences,Male,Healthcare Representative,3,10748,4,25,23,14
+1714,24,Human Resources,1,Human Resources,Male,Human Resources,3,1555,3,1,1,0
+1716,47,Sales,3,Life Sciences,Male,Sales Executive,3,12936,3,25,23,14
+1718,26,Research & Development,4,Medical,Male,Laboratory Technician,3,2305,3,3,3,0
+1719,45,Research & Development,2,Technical Degree,Female,Research Director,2,16704,3,21,21,8
+1720,32,Research & Development,3,Life Sciences,Male,Research Scientist,3,3433,3,10,5,1
+1721,31,Research & Development,4,Life Sciences,Male,Laboratory Technician,3,3477,3,6,5,0
+1722,41,Human Resources,3,Human Resources,Male,Human Resources,2,6430,3,10,3,1
+1724,40,Research & Development,2,Life Sciences,Female,Manufacturing Director,1,6516,3,18,1,0
+1725,24,Research & Development,1,Medical,Male,Laboratory Technician,1,3907,3,6,6,1
+1727,46,Research & Development,4,Life Sciences,Male,Healthcare Representative,2,5562,3,19,10,0
+1728,35,Research & Development,4,Life Sciences,Male,Manufacturing Director,3,6883,3,17,7,0
+1729,30,Research & Development,1,Life Sciences,Male,Research Scientist,4,2862,3,10,10,0
+1731,47,Sales,4,Marketing,Male,Sales Executive,2,4978,3,4,1,0
+1732,46,Sales,3,Life Sciences,Male,Sales Executive,4,10368,3,13,10,0
+1733,36,Sales,5,Marketing,Male,Sales Executive,1,6134,3,16,2,2
+1734,32,Sales,2,Life Sciences,Male,Sales Executive,2,6735,3,10,0,0
+1735,23,Research & Development,1,Medical,Female,Laboratory Technician,2,3295,3,3,3,1
+1736,31,Research & Development,1,Technical Degree,Female,Manufacturing Director,4,5238,4,9,5,1
+1737,39,Research & Development,3,Life Sciences,Male,Laboratory Technician,4,6472,3,9,9,5
+1739,32,Sales,3,Life Sciences,Male,Sales Executive,3,9610,3,10,4,0
+1740,40,Sales,4,Medical,Male,Manager,2,19833,3,21,21,12
+1744,45,Human Resources,3,Life Sciences,Female,Human Resources,3,9756,4,9,5,0
+1745,30,Research & Development,4,Technical Degree,Female,Research Scientist,1,4968,3,10,9,0
+1746,24,Human Resources,3,Medical,Male,Human Resources,4,2145,3,3,2,2
+1747,30,Human Resources,3,Human Resources,Female,Human Resources,4,2180,3,6,4,1
+1749,31,Sales,3,Technical Degree,Male,Sales Executive,3,8346,3,6,5,0
+1751,27,Research & Development,3,Medical,Female,Research Scientist,4,3445,3,6,6,1
+1752,29,Sales,3,Marketing,Female,Sales Representative,2,2760,3,2,2,2
+1753,29,Research & Development,3,Life Sciences,Male,Healthcare Representative,3,6294,3,10,3,0
+1754,30,Sales,2,Marketing,Male,Sales Executive,1,7140,3,12,7,1
+1755,34,Research & Development,4,Medical,Male,Research Scientist,4,2932,3,6,5,1
+1756,33,Sales,3,Marketing,Female,Sales Executive,2,5147,3,13,11,1
+1757,49,Sales,4,Marketing,Female,Sales Executive,4,4507,3,8,5,0
+1758,33,Sales,3,Life Sciences,Female,Sales Executive,1,8564,4,11,0,0
+1760,38,Research & Development,2,Medical,Female,Laboratory Technician,2,2468,3,9,6,0
+1761,31,Sales,4,Marketing,Male,Sales Executive,3,8161,3,10,1,0
+1762,29,Research & Development,3,Technical Degree,Female,Research Scientist,1,2109,3,1,1,0
+1763,30,Research & Development,3,Life Sciences,Male,Healthcare Representative,3,5294,3,10,7,1
+1764,32,Research & Development,4,Technical Degree,Male,Research Scientist,2,2718,3,12,7,0
+1766,38,Research & Development,3,Medical,Male,Healthcare Representative,4,5811,3,15,1,1
+1767,43,Research & Development,3,Technical Degree,Male,Research Scientist,3,2437,3,6,1,0
+1768,42,Research & Development,3,Medical,Male,Laboratory Technician,2,2766,4,7,5,0
+1770,55,Research & Development,3,Medical,Male,Research Director,1,19038,3,34,1,0
+1771,33,Research & Development,3,Technical Degree,Male,Research Scientist,2,3055,3,11,9,1
+1772,41,Research & Development,4,Life Sciences,Male,Laboratory Technician,1,2289,4,5,5,0
+1774,34,Sales,3,Life Sciences,Male,Sales Executive,3,4001,3,15,15,0
+1775,53,Research & Development,4,Medical,Female,Manufacturing Director,3,12965,4,27,3,0
+1778,43,Human Resources,3,Life Sciences,Male,Human Resources,4,3539,3,10,9,1
+1779,34,Sales,2,Life Sciences,Female,Sales Executive,4,6029,3,6,2,2
+1780,21,Sales,1,Marketing,Male,Sales Representative,2,2679,3,1,1,1
+1782,38,Research & Development,2,Other,Female,Laboratory Technician,3,3702,3,5,5,0
+1783,22,Research & Development,1,Medical,Female,Laboratory Technician,1,2398,3,1,1,0
+1784,31,Sales,4,Marketing,Female,Sales Executive,4,5468,3,13,12,5
+1786,51,Research & Development,3,Technical Degree,Female,Manager,3,13116,3,15,2,2
+1787,37,Sales,2,Marketing,Male,Sales Executive,2,4189,3,5,5,0
+1789,46,Research & Development,4,Medical,Male,Research Director,4,19328,3,24,2,2
+1790,36,Research & Development,3,Life Sciences,Male,Healthcare Representative,1,8321,3,15,12,5
+1792,44,Research & Development,2,Medical,Male,Research Scientist,2,2342,3,6,5,2
+1794,37,Human Resources,2,Other,Male,Human Resources,2,4071,3,19,10,4
+1797,35,Sales,3,Life Sciences,Male,Sales Executive,4,5813,3,10,10,7
+1798,33,Research & Development,4,Life Sciences,Male,Research Scientist,1,3143,3,14,10,7
+1799,28,Research & Development,3,Life Sciences,Male,Research Scientist,4,2044,3,5,5,0
+1800,39,Research & Development,1,Medical,Male,Research Director,3,13464,4,9,4,2
+1801,46,Sales,2,Life Sciences,Male,Sales Executive,2,7991,3,6,2,2
+1802,40,Research & Development,2,Life Sciences,Female,Laboratory Technician,1,3377,3,7,4,0
+1803,42,Research & Development,3,Medical,Male,Healthcare Representative,1,5538,3,10,0,0
+1804,35,Research & Development,2,Medical,Male,Manufacturing Director,4,5762,3,15,7,1
+1805,38,Human Resources,3,Human Resources,Male,Human Resources,2,2592,3,13,11,3
+1807,34,Research & Development,4,Life Sciences,Male,Laboratory Technician,1,5346,3,11,7,0
+1809,37,Research & Development,4,Medical,Male,Manufacturing Director,1,4213,3,10,10,0
+1812,39,Sales,3,Life Sciences,Male,Sales Executive,4,4127,3,7,2,2
+1813,43,Research & Development,3,Life Sciences,Male,Research Scientist,3,2438,3,7,3,1
+1814,41,Research & Development,3,Life Sciences,Male,Healthcare Representative,2,6870,3,11,3,1
+1815,41,Sales,1,Marketing,Female,Sales Executive,3,10447,3,23,22,13
+1816,30,Research & Development,3,Medical,Female,Manufacturing Director,3,9667,3,9,7,0
+1818,26,Human Resources,2,Medical,Female,Human Resources,2,2148,3,6,5,1
+1821,46,Research & Development,2,Medical,Female,Healthcare Representative,2,8926,4,13,9,3
+1822,40,Research & Development,3,Life Sciences,Female,Healthcare Representative,4,6513,3,12,5,0
+1823,34,Sales,2,Technical Degree,Male,Sales Executive,3,6799,4,10,10,4
+1824,58,Sales,3,Medical,Male,Manager,2,16291,4,37,16,14
+1826,35,Research & Development,4,Medical,Male,Laboratory Technician,3,2705,3,6,5,0
+1827,47,Research & Development,3,Life Sciences,Female,Manufacturing Director,2,10333,3,28,22,14
+1829,40,Research & Development,3,Life Sciences,Female,Healthcare Representative,1,4448,3,15,7,7
+1830,54,Research & Development,4,Medical,Female,Research Scientist,4,6854,3,14,7,1
+1833,31,Sales,4,Marketing,Female,Sales Executive,1,9637,3,9,3,2
+1834,28,Research & Development,3,Medical,Female,Research Scientist,1,3591,4,3,3,1
+1835,38,Sales,4,Marketing,Female,Sales Representative,4,5405,4,20,4,0
+1836,26,Sales,3,Medical,Male,Sales Executive,4,4684,3,5,5,1
+1837,58,Research & Development,4,Life Sciences,Male,Research Director,3,15787,3,23,2,2
+1839,18,Research & Development,3,Medical,Female,Research Scientist,3,1514,3,0,0,0
+1842,31,Human Resources,5,Human Resources,Male,Human Resources,1,2956,3,2,1,0
+1844,29,Human Resources,3,Human Resources,Male,Human Resources,1,2335,3,4,2,2
+1845,45,Sales,4,Life Sciences,Female,Sales Executive,3,5154,4,10,8,5
+1847,36,Research & Development,4,Other,Female,Research Scientist,2,6962,4,15,1,0
+1849,43,Sales,4,Life Sciences,Male,Sales Executive,4,5675,4,7,7,7
+1850,27,Research & Development,2,Life Sciences,Female,Laboratory Technician,4,2379,3,6,5,0
+1852,29,Research & Development,1,Medical,Male,Laboratory Technician,4,3812,3,11,11,3
+1853,32,Sales,4,Marketing,Male,Sales Executive,4,4648,3,4,0,0
+1854,42,Research & Development,4,Technical Degree,Male,Research Scientist,3,2936,4,10,6,3
+1856,47,Research & Development,4,Life Sciences,Female,Laboratory Technician,3,2105,3,7,2,2
+1857,46,Research & Development,2,Life Sciences,Male,Manufacturing Director,4,8578,3,12,9,4
+1858,28,Human Resources,2,Life Sciences,Male,Human Resources,4,2706,3,3,3,2
+1859,29,Research & Development,1,Life Sciences,Male,Healthcare Representative,3,6384,3,11,7,1
+1860,42,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,3968,3,8,0,0
+1862,32,Sales,4,Marketing,Male,Sales Executive,2,9907,3,7,2,2
+1863,46,Sales,3,Technical Degree,Female,Sales Executive,1,13225,3,25,19,2
+1864,27,Sales,1,Medical,Female,Sales Representative,3,3540,4,9,9,5
+1865,29,Human Resources,1,Medical,Male,Human Resources,2,2804,3,1,1,0
+1866,43,Research & Development,3,Medical,Female,Manager,3,19392,3,21,16,6
+1867,48,Research & Development,3,Life Sciences,Male,Research Director,2,19665,3,29,22,12
+1868,29,Research & Development,2,Life Sciences,Male,Research Scientist,4,2439,4,1,1,1
+1869,46,Sales,3,Life Sciences,Female,Sales Executive,2,7314,4,14,8,0
+1870,27,Research & Development,3,Life Sciences,Female,Research Scientist,1,4774,3,8,7,7
+1871,39,Research & Development,4,Other,Male,Research Scientist,4,3902,3,7,2,2
+1873,55,Research & Development,4,Technical Degree,Male,Research Scientist,4,2662,4,19,5,0
+1875,28,Sales,3,Medical,Female,Sales Representative,2,2856,3,1,1,0
+1876,30,Sales,3,Medical,Male,Sales Representative,4,1081,3,1,1,0
+1878,22,Research & Development,1,Life Sciences,Male,Research Scientist,2,2472,4,1,1,0
+1880,36,Sales,4,Technical Degree,Female,Sales Executive,3,5673,3,10,10,1
+1881,31,Research & Development,3,Life Sciences,Male,Laboratory Technician,3,4197,3,10,10,0
+1882,34,Sales,3,Life Sciences,Male,Sales Executive,4,9713,3,9,5,1
+1883,29,Research & Development,3,Life Sciences,Male,Laboratory Technician,1,2062,3,11,3,1
+1885,37,Research & Development,4,Medical,Male,Research Scientist,1,4284,4,16,5,0
+1886,35,Research & Development,2,Other,Female,Manufacturing Director,2,4788,3,4,3,0
+1888,45,Research & Development,2,Life Sciences,Female,Manufacturing Director,4,5906,3,10,9,3
+1890,36,Human Resources,1,Human Resources,Male,Human Resources,4,3886,4,10,10,0
+1892,40,Research & Development,4,Life Sciences,Male,Manager,1,16823,3,22,19,11
+1893,26,Research & Development,2,Life Sciences,Female,Research Scientist,3,2933,3,1,1,1
+1898,27,Sales,2,Medical,Female,Sales Executive,3,6500,3,9,8,0
+1900,48,Research & Development,3,Medical,Female,Manager,4,17174,3,24,22,4
+1903,44,Research & Development,4,Life Sciences,Male,Healthcare Representative,1,5033,3,10,2,2
+1905,34,Research & Development,4,Technical Degree,Male,Research Scientist,1,2307,4,5,5,3
+1907,56,Research & Development,2,Life Sciences,Male,Laboratory Technician,4,2587,3,5,4,1
+1908,36,Sales,2,Marketing,Male,Sales Executive,2,5507,3,12,4,1
+1909,41,Sales,3,Marketing,Female,Sales Executive,2,4393,4,14,5,1
+1911,42,Research & Development,3,Medical,Male,Research Director,1,13348,3,18,13,5
+1912,31,Sales,2,Medical,Female,Sales Executive,4,6583,3,8,5,1
+1915,34,Sales,1,Medical,Female,Sales Executive,4,8103,3,9,4,0
+1916,31,Research & Development,3,Medical,Female,Laboratory Technician,3,3978,3,4,2,2
+1918,26,Research & Development,3,Other,Male,Laboratory Technician,4,2544,3,8,7,7
+1922,45,Research & Development,4,Medical,Male,Healthcare Representative,3,5399,3,12,4,0
+1924,33,Sales,4,Marketing,Male,Sales Executive,3,5487,3,10,10,0
+1927,28,Sales,2,Life Sciences,Male,Sales Executive,4,6834,3,7,7,0
+1928,29,Sales,3,Technical Degree,Male,Sales Representative,1,1091,3,1,1,0
+1929,39,Sales,4,Life Sciences,Female,Sales Executive,3,5736,3,10,3,1
+1931,27,Research & Development,4,Technical Degree,Male,Research Scientist,2,2226,3,6,5,1
+1932,34,Research & Development,4,Other,Male,Research Scientist,4,5747,3,16,15,6
+1933,28,Sales,2,Marketing,Female,Sales Executive,3,9854,3,6,2,2
+1934,47,Research & Development,4,Technical Degree,Male,Research Scientist,2,5467,3,16,8,1
+1935,56,Sales,5,Marketing,Female,Sales Executive,1,5380,3,6,0,0
+1936,39,Research & Development,2,Medical,Male,Manufacturing Director,1,5151,4,10,10,7
+1937,38,Research & Development,3,Medical,Female,Research Scientist,2,2133,3,20,20,0
+1938,58,Sales,3,Life Sciences,Female,Manager,4,17875,3,29,1,0
+1939,32,Research & Development,2,Life Sciences,Female,Research Scientist,3,2432,3,8,4,0
+1940,38,Research & Development,2,Life Sciences,Male,Research Scientist,4,4771,3,10,5,0
+1941,49,Research & Development,1,Life Sciences,Male,Research Director,4,19161,3,28,5,4
+1943,42,Sales,4,Marketing,Male,Sales Executive,4,5087,3,14,0,0
+1944,27,Human Resources,3,Human Resources,Female,Human Resources,2,2863,3,1,1,0
+1945,35,Sales,4,Medical,Male,Sales Executive,1,5561,3,6,5,0
+1947,28,Research & Development,3,Medical,Male,Research Scientist,3,2144,3,5,5,1
+1948,31,Research & Development,2,Medical,Male,Research Scientist,1,3065,3,4,4,2
+1949,36,Research & Development,4,Life Sciences,Male,Laboratory Technician,2,2810,4,5,5,0
+1950,34,Sales,3,Marketing,Male,Sales Executive,4,9888,4,14,14,2
+1951,34,Sales,4,Medical,Male,Sales Executive,3,8628,3,9,8,1
+1952,26,Research & Development,3,Medical,Male,Laboratory Technician,1,2867,3,8,7,7
+1954,29,Research & Development,3,Life Sciences,Male,Healthcare Representative,1,5373,3,6,5,0
+1955,32,Research & Development,4,Medical,Female,Healthcare Representative,4,6667,3,9,5,1
+1956,31,Research & Development,3,Life Sciences,Male,Research Scientist,1,5003,4,10,10,8
+1960,28,Research & Development,3,Technical Degree,Male,Laboratory Technician,4,2367,3,6,4,0
+1961,38,Sales,3,Life Sciences,Male,Sales Representative,1,2858,3,20,1,0
+1962,35,Sales,4,Life Sciences,Female,Sales Executive,4,5204,3,10,10,0
+1965,27,Sales,3,Marketing,Male,Sales Executive,4,4105,3,7,7,0
+1966,32,Research & Development,4,Life Sciences,Male,Manufacturing Director,4,9679,4,8,1,0
+1967,31,Sales,4,Marketing,Male,Sales Executive,4,5617,3,10,10,0
+1968,53,Sales,4,Life Sciences,Male,Sales Executive,1,10448,3,15,2,2
+1969,54,Research & Development,2,Life Sciences,Female,Research Scientist,3,2897,3,9,4,2
+1970,33,Research & Development,2,Life Sciences,Male,Healthcare Representative,3,5968,4,9,9,2
+1971,43,Research & Development,3,Life Sciences,Male,Healthcare Representative,3,7510,3,10,10,0
+1972,38,Human Resources,4,Other,Male,Human Resources,2,2991,3,7,6,1
+1973,55,Human Resources,4,Human Resources,Male,Manager,2,19636,3,35,10,1
+1974,31,Research & Development,1,Medical,Female,Laboratory Technician,4,1129,3,1,1,0
+1975,39,Sales,4,Marketing,Male,Sales Executive,1,13341,3,21,20,11
+1976,42,Research & Development,2,Life Sciences,Male,Research Scientist,3,4332,3,20,20,3
+1979,31,Research & Development,3,Medical,Female,Research Director,3,11031,4,13,11,4
+1980,54,Research & Development,3,Medical,Female,Manufacturing Director,1,4440,3,9,5,1
+1981,24,Research & Development,2,Life Sciences,Male,Healthcare Representative,3,4617,3,4,4,1
+1982,23,Research & Development,2,Other,Male,Laboratory Technician,4,2647,3,5,5,1
+1985,40,Research & Development,3,Technical Degree,Female,Laboratory Technician,3,6323,3,10,10,9
+1986,40,Sales,2,Marketing,Female,Sales Executive,2,5677,3,15,11,5
+1987,25,Human Resources,3,Human Resources,Female,Human Resources,2,2187,3,6,2,1
+1989,30,Research & Development,2,Medical,Male,Laboratory Technician,2,3748,3,12,12,1
+1992,25,Research & Development,1,Other,Male,Laboratory Technician,3,3977,3,7,2,0
+1993,47,Research & Development,3,Medical,Male,Healthcare Representative,3,8633,4,25,17,12
+1994,33,Research & Development,2,Medical,Male,Laboratory Technician,3,2008,3,1,1,0
+1995,38,Sales,4,Life Sciences,Male,Sales Executive,2,4440,3,16,15,5
+1996,31,Sales,2,Life Sciences,Male,Sales Representative,3,3067,3,3,2,1
+1997,38,Research & Development,4,Life Sciences,Male,Manufacturing Director,3,5321,3,10,8,7
+1998,42,Research & Development,4,Life Sciences,Male,Research Scientist,1,5410,3,9,4,1
+1999,41,Research & Development,3,Life Sciences,Male,Research Scientist,4,2782,4,12,5,1
+2000,47,Research & Development,1,Medical,Female,Research Director,2,11957,3,14,13,5
+2003,35,Research & Development,4,Medical,Male,Laboratory Technician,3,2660,3,5,2,2
+2007,22,Research & Development,2,Life Sciences,Male,Research Scientist,3,3375,3,4,3,1
+2008,35,Research & Development,4,Medical,Male,Research Scientist,3,5098,3,10,10,0
+2009,33,Research & Development,2,Medical,Female,Healthcare Representative,4,4878,3,10,9,8
+2010,32,Research & Development,4,Life Sciences,Female,Laboratory Technician,2,2837,3,6,6,4
+2012,40,Research & Development,4,Life Sciences,Male,Laboratory Technician,4,2406,3,8,1,0
+2013,32,Sales,4,Medical,Male,Sales Representative,2,2269,3,3,2,2
+2014,39,Research & Development,1,Life Sciences,Male,Research Scientist,4,4108,3,18,7,1
+2015,38,Research & Development,3,Medical,Female,Research Director,3,13206,3,20,18,1
+2016,32,Sales,4,Marketing,Female,Sales Executive,4,10422,3,14,14,5
+2017,37,Research & Development,3,Life Sciences,Female,Research Director,4,13744,4,16,16,6
+2018,25,Sales,2,Other,Female,Sales Executive,3,4907,4,6,5,0
+2019,52,Sales,4,Life Sciences,Male,Sales Representative,4,3482,3,16,9,0
+2020,44,Research & Development,3,Medical,Male,Research Scientist,4,2436,3,6,4,1
+2021,21,Sales,1,Medical,Male,Sales Representative,1,2380,3,2,2,1
+2022,39,Research & Development,3,Life Sciences,Male,Manager,4,19431,3,21,6,1
+2023,23,Sales,3,Marketing,Male,Sales Representative,1,1790,3,1,1,1
+2024,36,Sales,3,Medical,Female,Sales Executive,4,7644,3,10,9,3
+2025,36,Research & Development,2,Life Sciences,Female,Manufacturing Director,2,5131,3,18,4,0
+2026,56,Research & Development,4,Life Sciences,Male,Healthcare Representative,3,6306,4,13,13,1
+2027,29,Research & Development,4,Medical,Male,Research Scientist,4,4787,3,4,2,2
+2031,42,Research & Development,3,Life Sciences,Male,Manager,3,18880,3,24,22,4
+2032,56,Research & Development,2,Technical Degree,Male,Laboratory Technician,3,2339,3,14,10,9
+2034,41,Research & Development,4,Life Sciences,Female,Manufacturing Director,2,13570,4,21,20,0
+2035,34,Sales,3,Marketing,Female,Sales Executive,3,6712,4,8,8,1
+2036,36,Sales,4,Marketing,Male,Sales Executive,4,5406,4,15,15,11
+2037,41,Sales,3,Life Sciences,Male,Sales Executive,2,8938,3,14,5,0
+2038,32,Research & Development,3,Technical Degree,Male,Research Scientist,1,2439,3,4,4,1
+2040,35,Human Resources,4,Life Sciences,Female,Human Resources,4,8837,3,9,9,1
+2041,38,Sales,2,Life Sciences,Female,Sales Executive,4,5343,3,10,10,1
+2044,50,Sales,4,Life Sciences,Male,Sales Executive,3,6728,3,12,6,0
+2045,36,Sales,4,Marketing,Female,Sales Executive,4,6652,3,8,6,0
+2046,45,Sales,3,Life Sciences,Female,Sales Executive,3,4850,3,8,5,0
+2048,40,Research & Development,4,Life Sciences,Male,Research Scientist,3,2809,3,8,2,2
+2049,35,Research & Development,4,Life Sciences,Male,Healthcare Representative,3,5689,3,10,10,0
+2051,40,Research & Development,4,Medical,Female,Research Scientist,3,2001,3,20,5,0
+2052,35,Research & Development,4,Life Sciences,Female,Research Scientist,4,2977,3,4,4,1
+2053,29,Research & Development,2,Other,Male,Laboratory Technician,2,4025,3,10,4,0
+2054,29,Research & Development,4,Medical,Female,Research Scientist,1,3785,3,5,5,0
+2055,50,Sales,3,Marketing,Male,Sales Executive,1,10854,3,20,3,2
+2056,39,Sales,1,Marketing,Female,Sales Executive,4,12031,3,21,20,9
+2057,31,Research & Development,3,Medical,Male,Manufacturing Director,1,9936,3,10,9,1
+2060,26,Sales,3,Other,Female,Sales Representative,3,2966,3,5,4,0
+2061,36,Research & Development,2,Medical,Male,Laboratory Technician,4,2571,3,17,5,0
+2062,39,Research & Development,1,Medical,Male,Healthcare Representative,1,9991,3,9,7,1
+2064,27,Research & Development,3,Life Sciences,Male,Manufacturing Director,2,6142,4,6,6,0
+2065,49,Sales,3,Medical,Male,Sales Executive,2,5390,3,17,9,0
+2068,34,Research & Development,3,Medical,Male,Laboratory Technician,3,4404,3,6,4,1
