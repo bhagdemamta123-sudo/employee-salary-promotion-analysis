@@ -31,9 +31,10 @@
     YearsSinceLastPromotion	                    Years since last promotion
 
 🛠 **Tools Used**
-  SQL (PostgreSQL / pgAdmin)
-  Excel (for basic visualization)
-  PowerPoint (for presentation)
+  
+    -SQL (PostgreSQL / pgAdmin)
+    -Excel (for basic visualization)
+    -PowerPoint (for presentation)
 
 🧹 Data Cleaning :
 
