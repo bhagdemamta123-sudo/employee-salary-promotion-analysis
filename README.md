@@ -54,6 +54,11 @@
     Salary ranking highlights top earners within each department.
     High performing employees earning below average salary may have salary growth potential.
 
+ 📊 **Project Presentation**
+
+ 👉 View the PowerPoint presentation here:
+     [https://1drv.ms/p/c/1170d2ff618dee77/IQB5y0cX2xliQLg4QtsKQiDSAUgFo-QKe-heTd3mNyBZgSU?e=pRU2H6]
+
 📌 **Conclusion**
     
     This project demonstrates how SQL can be used for HR analytics, including salary analysis, promotion tracking, and employee performance evaluation.
