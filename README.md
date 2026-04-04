@@ -7,6 +7,7 @@
       The analysis is performed using SQL queries including aggregate functions, window functions, and subqueries.
 
 🎯**Project Objectives**
+    
     - Analyze salary distribution across departments and job roles
     - Identify promotion gaps and average time employees wait for promotion
     - Detect employees eligible for promotion
